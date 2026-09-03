@@ -8,7 +8,7 @@ Chakravyuha AI is an AI-powered criminal-network intelligence platform designed 
 > **Theme:** Blockchain & Cybersecurity  
 > **Data Policy:** Synthetic demonstration data only
 
-![Chakravyuha AI System Architecture](docs/system-architecture.png)
+![Chakravyuha AI System Architecture](https://app.eraser.io/workspace/sjXr86ISfwUuTrTMcm7r)
 
 ## Problem
 
