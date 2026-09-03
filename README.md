@@ -265,7 +265,7 @@ Upload
 ### Installation
 
 ```bash
-git clone https://github.com/<your-github-username>/chakravyuha-ai.git
+git clone https://github.com/ShriyanshRaut/chakravyuha-ai.git
 cd chakravyuha-ai
 npm install
 npm run dev
