@@ -8,8 +8,6 @@ Chakravyuha AI is an AI-powered criminal-network intelligence platform designed 
 > **Theme:** Blockchain & Cybersecurity  
 > **Data Policy:** Synthetic demonstration data only
 
-[![Chakravyuha AI System Architecture](docs/system-architecture.png)](docs/system-architecture.png)
-
 ## Problem
 
 Crime-related information often exists in disconnected systems. A suspect may appear by name in an FIR, by phone number in CDR data, by account number in banking records, and by an alias in another report.
