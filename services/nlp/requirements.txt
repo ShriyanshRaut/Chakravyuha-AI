@@ -1,0 +1,6 @@
+fastapi>=0.111
+uvicorn[standard]>=0.30
+pydantic>=2.7
+rapidfuzz>=3.9
+python-multipart>=0.0.9
+pytest>=8.0
