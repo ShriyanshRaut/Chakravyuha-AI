@@ -1,0 +1,641 @@
+{
+  "doc_id": "FIR_001_THEFT",
+  "source_type": "FIR",
+  "language": "en",
+  "text_length": 753,
+  "entities": [
+    {
+      "type": "LOCATION",
+      "value": "Bowbazar",
+      "normalized": "Bowbazar",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 33,
+          "end": 41
+        }
+      ],
+      "entity_id": "e1",
+      "cluster_id": "c1",
+      "aliases": [],
+      "canonical_value": "Bowbazar"
+    },
+    {
+      "type": "LOCATION",
+      "value": "Kolkata",
+      "normalized": "Kolkata",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 43,
+          "end": 50
+        }
+      ],
+      "entity_id": "e2",
+      "cluster_id": "c2",
+      "aliases": [],
+      "canonical_value": "Kolkata"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "14/01/2026",
+      "normalized": "2026-01-14",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 73,
+          "end": 83
+        }
+      ],
+      "entity_id": "e3",
+      "cluster_id": "c3",
+      "aliases": [],
+      "canonical_value": "14/01/2026"
+    },
+    {
+      "type": "PERSON",
+      "value": "Sri Anirban Ghosh",
+      "normalized": "Sri Anirban Ghosh",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 97,
+          "end": 114
+        }
+      ],
+      "entity_id": "e4",
+      "cluster_id": "c4",
+      "aliases": [],
+      "canonical_value": "Sri Anirban Ghosh"
+    },
+    {
+      "type": "LOCATION",
+      "value": "Beadon Street",
+      "normalized": "Beadon Street",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 128,
+          "end": 141
+        }
+      ],
+      "entity_id": "e5",
+      "cluster_id": "c5",
+      "aliases": [],
+      "canonical_value": "Beadon Street"
+    },
+    {
+      "type": "LOCATION",
+      "value": "Sealdah",
+      "normalized": "Sealdah",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 199,
+          "end": 206
+        }
+      ],
+      "entity_id": "e6",
+      "cluster_id": "c6",
+      "aliases": [],
+      "canonical_value": "Sealdah"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "14/01/2026",
+      "normalized": "2026-01-14",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 218,
+          "end": 228
+        }
+      ],
+      "entity_id": "e7",
+      "cluster_id": "c3",
+      "aliases": [],
+      "canonical_value": "14/01/2026"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 283,
+          "end": 295
+        }
+      ],
+      "entity_id": "e8",
+      "cluster_id": "c7",
+      "aliases": [],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "LOCATION",
+      "value": "Howrah",
+      "normalized": "Howrah",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 309,
+          "end": 315
+        }
+      ],
+      "entity_id": "e9",
+      "cluster_id": "c8",
+      "aliases": [],
+      "canonical_value": "Howrah"
+    },
+    {
+      "type": "PERSON",
+      "value": "Pappu Das",
+      "normalized": "Pappu Das",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 321,
+          "end": 330
+        }
+      ],
+      "entity_id": "e10",
+      "cluster_id": "c9",
+      "aliases": [],
+      "canonical_value": "Pappu Das"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 356,
+          "end": 368
+        }
+      ],
+      "entity_id": "e11",
+      "cluster_id": "c7",
+      "aliases": [],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Pappu Das",
+      "normalized": "Pappu Das",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 383,
+          "end": 392
+        }
+      ],
+      "entity_id": "e12",
+      "cluster_id": "c9",
+      "aliases": [],
+      "canonical_value": "Pappu Das"
+    },
+    {
+      "type": "VEHICLE",
+      "alias_marked": false,
+      "value": "WB 02 AB 1234",
+      "normalized": "WB02AB1234",
+      "confidence": 0.93,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 469,
+          "end": 482
+        }
+      ],
+      "entity_id": "e13",
+      "cluster_id": "c10",
+      "aliases": [],
+      "canonical_value": "WB 02 AB 1234"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 513,
+          "end": 525
+        }
+      ],
+      "entity_id": "e14",
+      "cluster_id": "c7",
+      "aliases": [],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Vikram Singh",
+      "normalized": "Vikram Singh",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 533,
+          "end": 545
+        }
+      ],
+      "entity_id": "e15",
+      "cluster_id": "c11",
+      "aliases": [],
+      "canonical_value": "Vikram Singh"
+    },
+    {
+      "type": "PHONE",
+      "alias_marked": false,
+      "value": "9830011122",
+      "normalized": "+919830011122",
+      "confidence": 0.97,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 560,
+          "end": 570
+        }
+      ],
+      "entity_id": "e16",
+      "cluster_id": "c12",
+      "aliases": [],
+      "canonical_value": "9830011122"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 599,
+          "end": 611
+        }
+      ],
+      "entity_id": "e17",
+      "cluster_id": "c7",
+      "aliases": [],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "LOCATION",
+      "value": "Salkia",
+      "normalized": "Salkia",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 631,
+          "end": 637
+        }
+      ],
+      "entity_id": "e18",
+      "cluster_id": "c13",
+      "aliases": [],
+      "canonical_value": "Salkia"
+    },
+    {
+      "type": "PERSON",
+      "value": "Pappu Das",
+      "normalized": "Pappu Das",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 644,
+          "end": 653
+        }
+      ],
+      "entity_id": "e19",
+      "cluster_id": "c9",
+      "aliases": [],
+      "canonical_value": "Pappu Das"
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Salkia gang",
+      "normalized": "Salkia gang",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 678,
+          "end": 689
+        }
+      ],
+      "entity_id": "e20",
+      "cluster_id": "c14",
+      "aliases": [],
+      "canonical_value": "Salkia gang"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 692,
+          "end": 704
+        }
+      ],
+      "entity_id": "e21",
+      "cluster_id": "c7",
+      "aliases": [],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Pappu Das",
+      "normalized": "Pappu Das",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 719,
+          "end": 728
+        }
+      ],
+      "entity_id": "e22",
+      "cluster_id": "c9",
+      "aliases": [],
+      "canonical_value": "Pappu Das"
+    },
+    {
+      "type": "LOCATION",
+      "value": "Salkia",
+      "normalized": "Salkia",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 732,
+          "end": 738
+        }
+      ],
+      "entity_id": "e23",
+      "cluster_id": "c13",
+      "aliases": [],
+      "canonical_value": "Salkia"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "15-01-2026",
+      "normalized": "2026-01-15",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 742,
+          "end": 752
+        }
+      ],
+      "entity_id": "e24",
+      "cluster_id": "c15",
+      "aliases": [],
+      "canonical_value": "15-01-2026"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "e4",
+      "target": "e1",
+      "source_cluster": "c4",
+      "target_cluster": "c1",
+      "type": "LOCATED_AT",
+      "confidence": 0.6,
+      "evidence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved.",
+      "evidence_span": {
+        "start": 0,
+        "end": 355
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e4",
+      "target": "e2",
+      "source_cluster": "c4",
+      "target_cluster": "c2",
+      "type": "LOCATED_AT",
+      "confidence": 0.616,
+      "evidence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved.",
+      "evidence_span": {
+        "start": 0,
+        "end": 355
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e4",
+      "target": "e5",
+      "source_cluster": "c4",
+      "target_cluster": "c5",
+      "type": "LOCATED_AT",
+      "confidence": 0.673,
+      "evidence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved.",
+      "evidence_span": {
+        "start": 0,
+        "end": 355
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e4",
+      "target": "e6",
+      "source_cluster": "c4",
+      "target_cluster": "c6",
+      "type": "LOCATED_AT",
+      "confidence": 0.549,
+      "evidence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved.",
+      "evidence_span": {
+        "start": 0,
+        "end": 355
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e8",
+      "target": "e6",
+      "source_cluster": "c7",
+      "target_cluster": "c6",
+      "type": "LOCATED_AT",
+      "confidence": 0.563,
+      "evidence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved.",
+      "evidence_span": {
+        "start": 0,
+        "end": 355
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e8",
+      "target": "e9",
+      "source_cluster": "c7",
+      "target_cluster": "c8",
+      "type": "LOCATED_AT",
+      "confidence": 0.673,
+      "evidence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved.",
+      "evidence_span": {
+        "start": 0,
+        "end": 355
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e8",
+      "target": "e10",
+      "source_cluster": "c7",
+      "target_cluster": "c9",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.348,
+      "evidence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved.",
+      "evidence_span": {
+        "start": 0,
+        "end": 355
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e10",
+      "target": "e9",
+      "source_cluster": "c9",
+      "target_cluster": "c8",
+      "type": "LOCATED_AT",
+      "confidence": 0.687,
+      "evidence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved.",
+      "evidence_span": {
+        "start": 0,
+        "end": 355
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e11",
+      "target": "e12",
+      "source_cluster": "c7",
+      "target_cluster": "c9",
+      "type": "SEEN_WITH",
+      "confidence": 0.707,
+      "evidence": "Rakesh Yadav was seen with Pappu Das at the spot.",
+      "evidence_span": {
+        "start": 356,
+        "end": 405
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e14",
+      "target": "e15",
+      "source_cluster": "c7",
+      "target_cluster": "c11",
+      "type": "CALLED",
+      "confidence": 0.784,
+      "evidence": "Investigation revealed that Rakesh Yadav called Vikram Singh on mobile no. 9830011122 shortly after the incident.",
+      "evidence_span": {
+        "start": 485,
+        "end": 598
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e14",
+      "target": "e16",
+      "source_cluster": "c7",
+      "target_cluster": "c12",
+      "type": "CALLED",
+      "confidence": 0.73,
+      "evidence": "Investigation revealed that Rakesh Yadav called Vikram Singh on mobile no. 9830011122 shortly after the incident.",
+      "evidence_span": {
+        "start": 485,
+        "end": 598
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e15",
+      "target": "e16",
+      "source_cluster": "c11",
+      "target_cluster": "c12",
+      "type": "CALLED",
+      "confidence": 0.77,
+      "evidence": "Investigation revealed that Rakesh Yadav called Vikram Singh on mobile no. 9830011122 shortly after the incident.",
+      "evidence_span": {
+        "start": 485,
+        "end": 598
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e17",
+      "target": "e18",
+      "source_cluster": "c7",
+      "target_cluster": "c13",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.353,
+      "evidence": "Rakesh Yadav is a member of the Salkia gang.",
+      "evidence_span": {
+        "start": 599,
+        "end": 643
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e19",
+      "target": "e20",
+      "source_cluster": "c9",
+      "target_cluster": "c14",
+      "type": "MEMBER_OF",
+      "confidence": 0.715,
+      "evidence": "Pappu Das is also a member of the Salkia gang.",
+      "evidence_span": {
+        "start": 644,
+        "end": 690
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e22",
+      "target": "e23",
+      "source_cluster": "c9",
+      "target_cluster": "c13",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.368,
+      "evidence": "Rakesh Yadav was seen with Pappu Das at Salkia on 15-01-2026.",
+      "evidence_span": {
+        "start": 692,
+        "end": 753
+      },
+      "attributes": {}
+    }
+  ],
+  "meta": {
+    "pipeline_version": "0.2.0",
+    "ocr_used": false,
+    "entity_count": 24,
+    "cluster_count": 15,
+    "relationship_count": 15,
+    "review_suggestions": []
+  }
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "ALERT-PASSTHROUGH-7429",
+    "kind": "PASSTHROUGH",
+    "severity": "HIGH",
+    "title": "Funds pass-through: Imran Sheikh",
+    "detail": "Rs. 290,000 received and Rs. 300,000 forwarded within 3 days, retaining under 15%. Consistent with a layering conduit.",
+    "subjects": [
+      "Imran Sheikh"
+    ],
+    "evidence": [
+      "In Rs. 290,000 from Rakesh Yadav on 23/02/2026; out Rs. 300,000 to Amit Agarwal on 24/02/2026"
+    ]
+  },
+  {
+    "id": "ALERT-STRUCTURING-3836",
+    "kind": "STRUCTURING",
+    "severity": "HIGH",
+    "title": "Possible structuring: Amit Agarwal to Hind Logistics",
+    "detail": "3 transfers totalling Rs. 1,470,000 within 7 days, each between Rs. 425,000 and the Rs. 500,000 reporting threshold.",
+    "subjects": [
+      "Amit Agarwal",
+      "Hind Logistics"
+    ],
+    "evidence": [
+      "12/03/2026: Rs. 490,000",
+      "13/03/2026: Rs. 485,000",
+      "14/03/2026: Rs. 495,000"
+    ]
+  },
+  {
+    "id": "ALERT-BRIDGE-2363",
+    "kind": "BRIDGE",
+    "severity": "HIGH",
+    "title": "Single point of connection: Imran Sheikh",
+    "detail": "Betweenness centrality 0.5275 — the highest in the network. This individual sits on the shortest path between two otherwise unconnected groups; removing them disconnects the network.",
+    "subjects": [
+      "Imran Sheikh"
+    ],
+    "evidence": [
+      "betweenness=0.5275",
+      "degree=4"
+    ]
+  },
+  {
+    "id": "ALERT-CALL_BURST-1270",
+    "kind": "CALL_BURST",
+    "severity": "MEDIUM",
+    "title": "Call burst: Vikram Singh and Rakesh Yadav",
+    "detail": "6 calls within 60 minutes on 14/01/2026, first at 21:35 near Bowbazar. Short-interval clustering is consistent with coordination around an event.",
+    "subjects": [
+      "Vikram Singh",
+      "Rakesh Yadav"
+    ],
+    "evidence": [
+      "14/01/2026 21:35",
+      "14/01/2026 21:42",
+      "14/01/2026 21:49",
+      "14/01/2026 21:56",
+      "14/01/2026 22:03",
+      "14/01/2026 22:10"
+    ]
+  },
+  {
+    "id": "ALERT-SHARED_IDENTIFIER-9302",
+    "kind": "SHARED_IDENTIFIER",
+    "severity": "MEDIUM",
+    "title": "Shared identifier: 9007654321",
+    "detail": "PHONE 9007654321 is linked to 2 individuals across sources. Shared handsets, accounts or vehicles frequently indicate an operational pool.",
+    "subjects": [
+      "Bablu Mondal",
+      "Rakesh Yadav"
+    ],
+    "evidence": [
+      "linked to Bablu Mondal",
+      "linked to Rakesh Yadav"
+    ]
+  },
+  {
+    "id": "ALERT-ODD_HOURS-4449",
+    "kind": "ODD_HOURS",
+    "severity": "LOW",
+    "title": "Predominantly night-time contact: Sohail Ansari and Vikram Singh",
+    "detail": "6 of 6 calls fall between 22:00 and 05:00.",
+    "subjects": [
+      "Sohail Ansari",
+      "Vikram Singh"
+    ],
+    "evidence": [
+      "6/6 calls in the 22:00-05:00 window"
+    ]
+  },
+  {
+    "id": "ALERT-ODD_HOURS-7362",
+    "kind": "ODD_HOURS",
+    "severity": "LOW",
+    "title": "Predominantly night-time contact: Vikram Singh and Kallu Halder",
+    "detail": "8 of 8 calls fall between 22:00 and 05:00.",
+    "subjects": [
+      "Vikram Singh",
+      "Kallu Halder"
+    ],
+    "evidence": [
+      "8/8 calls in the 22:00-05:00 window"
+    ]
+  },
+  {
+    "id": "ALERT-ODD_HOURS-5778",
+    "kind": "ODD_HOURS",
+    "severity": "LOW",
+    "title": "Predominantly night-time contact: Vikram Singh and Pappu Das",
+    "detail": "11 of 11 calls fall between 22:00 and 05:00.",
+    "subjects": [
+      "Vikram Singh",
+      "Pappu Das"
+    ],
+    "evidence": [
+      "11/11 calls in the 22:00-05:00 window"
+    ]
+  }
+]

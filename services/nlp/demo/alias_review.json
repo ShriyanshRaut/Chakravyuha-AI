@@ -1,0 +1,12 @@
+[
+  {
+    "type": "PERSON",
+    "candidate_a": "Rakesh Yadav",
+    "candidate_b": "Raju",
+    "score": 25,
+    "reason": "document states 'alias' but the names do not match",
+    "action": "possible_same_entity_needs_human_review",
+    "doc_id": "FIR_003_ALIAS_VARIANTS",
+    "status": "pending"
+  }
+]

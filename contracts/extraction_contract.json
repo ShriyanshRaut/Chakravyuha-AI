@@ -1,0 +1,213 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ChakravyuhaAI Extraction Output v1.1",
+  "type": "object",
+  "required": [
+    "doc_id",
+    "source_type",
+    "language",
+    "entities",
+    "relationships",
+    "meta"
+  ],
+  "properties": {
+    "doc_id": {
+      "type": "string",
+      "description": "Stable id of source document, e.g. FIR-2026-0142"
+    },
+    "source_type": {
+      "enum": [
+        "FIR",
+        "CDR",
+        "TRANSACTION",
+        "SURVEILLANCE",
+        "SOCIAL",
+        "OTHER"
+      ]
+    },
+    "language": {
+      "type": "string",
+      "description": "BCP-47, e.g. en, hi, bn"
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "entity_id",
+          "type",
+          "value",
+          "confidence",
+          "spans"
+        ],
+        "properties": {
+          "entity_id": {
+            "type": "string",
+            "description": "Local id within this doc, e.g. e1"
+          },
+          "type": {
+            "enum": [
+              "PERSON",
+              "ORGANIZATION",
+              "LOCATION",
+              "PHONE",
+              "VEHICLE",
+              "BANK_ACCOUNT",
+              "IFSC",
+              "MONEY",
+              "DATE",
+              "EMAIL",
+              "IMEI",
+              "SOCIAL_HANDLE",
+              "WEAPON",
+              "OTHER"
+            ]
+          },
+          "value": {
+            "type": "string",
+            "description": "Surface form as written in text"
+          },
+          "normalized": {
+            "type": "string",
+            "description": "Canonical form: +919830012345, WB02AB1234, 2026-01-14, 250000.00"
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "extractor": {
+            "enum": [
+              "regex",
+              "ner",
+              "structured",
+              "llm",
+              "manual"
+            ]
+          },
+          "spans": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "start",
+                "end"
+              ],
+              "properties": {
+                "start": {
+                  "type": "integer"
+                },
+                "end": {
+                  "type": "integer"
+                }
+              }
+            }
+          },
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "cluster_id": {
+            "type": "string",
+            "description": "Set by entity resolution; entities sharing a cluster_id are the same real-world entity"
+          },
+          "alias_marked": {
+            "type": "boolean",
+            "description": "Entity was introduced by an explicit 'alias' marker in the source text"
+          },
+          "canonical_value": {
+            "type": "string",
+            "description": "Longest surface form in this entity's cluster"
+          }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source",
+          "target",
+          "type",
+          "confidence"
+        ],
+        "properties": {
+          "source": {
+            "type": "string",
+            "description": "entity_id"
+          },
+          "target": {
+            "type": "string",
+            "description": "entity_id"
+          },
+          "type": {
+            "enum": [
+              "ASSOCIATE_OF",
+              "CALLED",
+              "TRANSFERRED_TO",
+              "OWNS_VEHICLE",
+              "OWNS_ACCOUNT",
+              "USES_PHONE",
+              "USES_HANDLE",
+              "LOCATED_AT",
+              "MEMBER_OF",
+              "SEEN_WITH",
+              "SUPPLIED_WEAPON",
+              "EMPLOYED_BY",
+              "RELATED_TO",
+              "MENTIONED_WITH"
+            ]
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "evidence": {
+            "type": "string",
+            "description": "The sentence that justified this edge"
+          },
+          "evidence_span": {
+            "type": "object",
+            "properties": {
+              "start": {
+                "type": "integer"
+              },
+              "end": {
+                "type": "integer"
+              }
+            }
+          },
+          "attributes": {
+            "type": "object",
+            "description": "Free-form: {\"amount\": 250000, \"date\": \"2026-01-14\"}"
+          }
+        }
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "pipeline_version": {
+          "type": "string"
+        },
+        "processed_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "ocr_used": {
+          "type": "boolean"
+        },
+        "warnings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

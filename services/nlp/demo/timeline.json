@@ -1,0 +1,232 @@
+[
+  {
+    "date": "2026-01-15",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Rakesh Yadav",
+    "target": "Mehta Traders Pvt Ltd",
+    "amount": "250000.00",
+    "evidence": "NEFT of Rs. 250,000 from Rakesh Yadav to Mehta Traders Pvt Ltd on 2026-01-15."
+  },
+  {
+    "date": "2026-01-20",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Vikram Singh",
+    "target": "Rakesh Yadav",
+    "amount": "60000.00",
+    "evidence": "IMPS of Rs. 60,000 from Vikram Singh to Rakesh Yadav on 2026-01-20."
+  },
+  {
+    "date": "2026-02-02",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Vikram Singh",
+    "target": "Pappu Das",
+    "amount": "45000.00",
+    "evidence": "IMPS of Rs. 45,000 from Vikram Singh to Pappu Das on 2026-02-02."
+  },
+  {
+    "date": "2026-02-10",
+    "doc_id": "FIR_005_HAWALA",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "40561234789",
+    "amount": "4500000.00",
+    "evidence": "Amit Agarwal remitted Rs. 45,00,000 to a/c no. 40561234789 held by Hind Logistics between 10/02/2026 and 28/02/2026."
+  },
+  {
+    "date": "2026-02-10",
+    "doc_id": "FIR_005_HAWALA",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Hind Logistics",
+    "amount": "4500000.00",
+    "evidence": "Amit Agarwal remitted Rs. 45,00,000 to a/c no. 40561234789 held by Hind Logistics between 10/02/2026 and 28/02/2026."
+  },
+  {
+    "date": "2026-02-10",
+    "doc_id": "FIR_005_HAWALA",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "40561234789",
+    "target": "Hind Logistics",
+    "amount": "4500000.00",
+    "evidence": "Amit Agarwal remitted Rs. 45,00,000 to a/c no. 40561234789 held by Hind Logistics between 10/02/2026 and 28/02/2026."
+  },
+  {
+    "date": "2026-02-10",
+    "doc_id": "FIR_009_ARMS",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "Vikram Singh",
+    "target": "Sohail Ansari",
+    "amount": "90000.00",
+    "evidence": "Vikram Singh paid Rs. 90,000 to Sohail Ansari on 10/02/2026."
+  },
+  {
+    "date": "2026-02-10",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Vikram Singh",
+    "target": "Sohail Ansari",
+    "amount": "90000.00",
+    "evidence": "IMPS of Rs. 90,000 from Vikram Singh to Sohail Ansari on 2026-02-10."
+  },
+  {
+    "date": "2026-02-12",
+    "doc_id": "FIR_003_ALIAS_VARIANTS",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "Rakesh Yadav",
+    "target": "Imran Sheikh",
+    "amount": "120000.00",
+    "evidence": "Rakesh Yadav paid Rs. 1,20,000 to Imran Sheikh on 12/02/2026."
+  },
+  {
+    "date": "2026-02-12",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Rakesh Yadav",
+    "target": "Imran Sheikh",
+    "amount": "120000.00",
+    "evidence": "IMPS of Rs. 120,000 from Rakesh Yadav to Imran Sheikh on 2026-02-12."
+  },
+  {
+    "date": "2026-02-18",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Vikram Singh",
+    "target": "Bablu Mondal",
+    "amount": "40000.00",
+    "evidence": "IMPS of Rs. 40,000 from Vikram Singh to Bablu Mondal on 2026-02-18."
+  },
+  {
+    "date": "2026-02-23",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Rakesh Yadav",
+    "target": "Imran Sheikh",
+    "amount": "290000.00",
+    "evidence": "IMPS of Rs. 290,000 from Rakesh Yadav to Imran Sheikh on 2026-02-23."
+  },
+  {
+    "date": "2026-02-24",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Imran Sheikh",
+    "target": "Amit Agarwal",
+    "amount": "300000.00",
+    "evidence": "RTGS of Rs. 300,000 from Imran Sheikh to Amit Agarwal on 2026-02-24."
+  },
+  {
+    "date": "2026-02-28",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Hind Logistics",
+    "amount": "4500000.00",
+    "evidence": "RTGS of Rs. 4,500,000 from Amit Agarwal to Hind Logistics on 2026-02-28."
+  },
+  {
+    "date": "2026-03-05",
+    "doc_id": "FIR_006_SHELL",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Hind Logistics",
+    "amount": "850000.00",
+    "evidence": "Amit Agarwal remitted Rs. 8,50,000 to Hind Logistics on 05/03/2026."
+  },
+  {
+    "date": "2026-03-05",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Hind Logistics",
+    "amount": "850000.00",
+    "evidence": "NEFT of Rs. 850,000 from Amit Agarwal to Hind Logistics on 2026-03-05."
+  },
+  {
+    "date": "2026-03-08",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Imran Sheikh",
+    "amount": "200000.00",
+    "evidence": "IMPS of Rs. 200,000 from Amit Agarwal to Imran Sheikh on 2026-03-08."
+  },
+  {
+    "date": "2026-03-12",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Hind Logistics",
+    "amount": "490000.00",
+    "evidence": "NEFT of Rs. 490,000 from Amit Agarwal to Hind Logistics on 2026-03-12."
+  },
+  {
+    "date": "2026-03-13",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Hind Logistics",
+    "amount": "485000.00",
+    "evidence": "NEFT of Rs. 485,000 from Amit Agarwal to Hind Logistics on 2026-03-13."
+  },
+  {
+    "date": "2026-03-14",
+    "doc_id": "TXN-2026-Q1",
+    "source_type": "TRANSACTION",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Hind Logistics",
+    "amount": "495000.00",
+    "evidence": "NEFT of Rs. 495,000 from Amit Agarwal to Hind Logistics on 2026-03-14."
+  },
+  {
+    "date": "2026-03-18",
+    "doc_id": "FIR_010_LAYERING",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "Hind Logistics",
+    "amount": "490000.00",
+    "evidence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferre"
+  },
+  {
+    "date": "2026-03-18",
+    "doc_id": "FIR_010_LAYERING",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "40561234789",
+    "target": "Hind Logistics",
+    "amount": "490000.00",
+    "evidence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferre"
+  },
+  {
+    "date": "2026-03-18",
+    "doc_id": "FIR_010_LAYERING",
+    "source_type": "FIR",
+    "type": "TRANSFERRED_TO",
+    "source": "Amit Agarwal",
+    "target": "40561234789",
+    "amount": "490000.00",
+    "evidence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferre"
+  }
+]

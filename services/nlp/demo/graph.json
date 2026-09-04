@@ -1,0 +1,3141 @@
+{
+  "nodes": [
+    {
+      "id": "BANK_ACCOUNT:20345678901",
+      "type": "BANK_ACCOUNT",
+      "label": "20345678901",
+      "aliases": [],
+      "documents": [
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "BANK_ACCOUNT:30982211445",
+      "type": "BANK_ACCOUNT",
+      "label": "30982211445",
+      "aliases": [],
+      "documents": [
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "BANK_ACCOUNT:40561234789",
+      "type": "BANK_ACCOUNT",
+      "label": "40561234789",
+      "aliases": [],
+      "documents": [
+        "FIR_004_HINDI",
+        "FIR_005_HAWALA",
+        "FIR_010_LAYERING",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 5,
+      "confidence": 0.98
+    },
+    {
+      "id": "BANK_ACCOUNT:55110099887",
+      "type": "BANK_ACCOUNT",
+      "label": "55110099887",
+      "aliases": [],
+      "documents": [
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "DATE:2026-01-14",
+      "type": "DATE",
+      "label": "14/01/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT"
+      ],
+      "mention_count": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-01-15",
+      "type": "DATE",
+      "label": "15-01-2026",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-01-20",
+      "type": "DATE",
+      "label": "20/01/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_002_CREW"
+      ],
+      "mention_count": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-01-21",
+      "type": "DATE",
+      "label": "21/01/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_002_CREW"
+      ],
+      "mention_count": 4,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-01-22",
+      "type": "DATE",
+      "label": "22/01/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_002_CREW"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-01-27",
+      "type": "DATE",
+      "label": "27/01/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_007_EXTORTION"
+      ],
+      "mention_count": 3,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-01-28",
+      "type": "DATE",
+      "label": "28/01/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_007_EXTORTION"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-04",
+      "type": "DATE",
+      "label": "04/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_008_VEHICLE"
+      ],
+      "mention_count": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-05",
+      "type": "DATE",
+      "label": "05/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_008_VEHICLE"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-09",
+      "type": "DATE",
+      "label": "09/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS",
+        "SURVEILLANCE_001"
+      ],
+      "mention_count": 3,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-10",
+      "type": "DATE",
+      "label": "10/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS",
+        "FIR_005_HAWALA"
+      ],
+      "mention_count": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-11",
+      "type": "DATE",
+      "label": "11/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-12",
+      "type": "DATE",
+      "label": "12/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS",
+        "FIR_003_ALIAS_VARIANTS"
+      ],
+      "mention_count": 3,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-16",
+      "type": "DATE",
+      "label": "16/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_003_ALIAS_VARIANTS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-17",
+      "type": "DATE",
+      "label": "17/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_003_ALIAS_VARIANTS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-18",
+      "type": "DATE",
+      "label": "18/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_003_ALIAS_VARIANTS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-19",
+      "type": "DATE",
+      "label": "19/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_003_ALIAS_VARIANTS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-24",
+      "type": "DATE",
+      "label": "24/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_004_HINDI"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-25",
+      "type": "DATE",
+      "label": "25/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_004_HINDI"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-02-28",
+      "type": "DATE",
+      "label": "28/02/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_005_HAWALA"
+      ],
+      "mention_count": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-02",
+      "type": "DATE",
+      "label": "02/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_005_HAWALA"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-03",
+      "type": "DATE",
+      "label": "03/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_005_HAWALA"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-05",
+      "type": "DATE",
+      "label": "05/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_006_SHELL"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-06",
+      "type": "DATE",
+      "label": "06/03/2026",
+      "aliases": [],
+      "documents": [
+        "SURVEILLANCE_002",
+        "FIR_006_SHELL"
+      ],
+      "mention_count": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-08",
+      "type": "DATE",
+      "label": "08/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_006_SHELL"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-11",
+      "type": "DATE",
+      "label": "11/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_006_SHELL"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-12",
+      "type": "DATE",
+      "label": "12/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-13",
+      "type": "DATE",
+      "label": "13/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-14",
+      "type": "DATE",
+      "label": "14/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 2,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-18",
+      "type": "DATE",
+      "label": "18/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "DATE:2026-03-21",
+      "type": "DATE",
+      "label": "21/03/2026",
+      "aliases": [],
+      "documents": [
+        "FIR_011_SOCIAL"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "EMAIL:sohail.ansari.trade@gmail.com",
+      "type": "EMAIL",
+      "label": "sohail.ansari.trade@gmail.com",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.99
+    },
+    {
+      "id": "EMAIL:vikram.singh.kol@protonmail.com",
+      "type": "EMAIL",
+      "label": "vikram.singh.kol@protonmail.com",
+      "aliases": [],
+      "documents": [
+        "FIR_011_SOCIAL"
+      ],
+      "mention_count": 1,
+      "confidence": 0.99
+    },
+    {
+      "id": "IFSC:HDFC0000456",
+      "type": "IFSC",
+      "label": "HDFC0000456",
+      "aliases": [],
+      "documents": [
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "IFSC:ICIC0000789",
+      "type": "IFSC",
+      "label": "ICIC0000789",
+      "aliases": [],
+      "documents": [
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "IFSC:PUNB0111000",
+      "type": "IFSC",
+      "label": "PUNB0111000",
+      "aliases": [],
+      "documents": [
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "IFSC:SBIN0001234",
+      "type": "IFSC",
+      "label": "SBIN0001234",
+      "aliases": [],
+      "documents": [
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "IMEI:358240051111110",
+      "type": "IMEI",
+      "label": "358240051111110",
+      "aliases": [],
+      "documents": [
+        "SURVEILLANCE_001"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "IMEI:358240059999990",
+      "type": "IMEI",
+      "label": "358240059999990",
+      "aliases": [],
+      "documents": [
+        "SURVEILLANCE_002"
+      ],
+      "mention_count": 1,
+      "confidence": 0.98
+    },
+    {
+      "id": "LOCATION:beadon street",
+      "type": "LOCATION",
+      "label": "Beadon Street",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT"
+      ],
+      "mention_count": 1,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:bowbazar",
+      "type": "LOCATION",
+      "label": "Bowbazar",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_007_EXTORTION",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 3,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:burrabazar",
+      "type": "LOCATION",
+      "label": "Burrabazar",
+      "aliases": [],
+      "documents": [
+        "FIR_007_EXTORTION",
+        "SURVEILLANCE_002",
+        "FIR_005_HAWALA",
+        "FIR_006_SHELL",
+        "FIR_010_LAYERING",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 6,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:canning street",
+      "type": "LOCATION",
+      "label": "Canning Street",
+      "aliases": [],
+      "documents": [
+        "FIR_007_EXTORTION",
+        "SURVEILLANCE_002",
+        "FIR_005_HAWALA"
+      ],
+      "mention_count": 3,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:howrah",
+      "type": "LOCATION",
+      "label": "Howrah",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "SURVEILLANCE_001",
+        "FIR_003_ALIAS_VARIANTS",
+        "FIR_011_SOCIAL",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 7,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:kolkata",
+      "type": "LOCATION",
+      "label": "Kolkata",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "FIR_007_EXTORTION",
+        "FIR_008_VEHICLE",
+        "FIR_009_ARMS",
+        "FIR_003_ALIAS_VARIANTS",
+        "FIR_011_SOCIAL",
+        "FIR_004_HINDI",
+        "FIR_005_HAWALA",
+        "FIR_006_SHELL",
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 11,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:metiabruz",
+      "type": "LOCATION",
+      "label": "Metiabruz",
+      "aliases": [],
+      "documents": [
+        "SURVEILLANCE_002"
+      ],
+      "mention_count": 1,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:rajabazar",
+      "type": "LOCATION",
+      "label": "Rajabazar",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS",
+        "FIR_004_HINDI",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 4,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:salkia",
+      "type": "LOCATION",
+      "label": "Salkia",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "FIR_008_VEHICLE",
+        "SURVEILLANCE_001",
+        "FIR_003_ALIAS_VARIANTS",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 11,
+      "confidence": 0.93
+    },
+    {
+      "id": "LOCATION:sealdah",
+      "type": "LOCATION",
+      "label": "Sealdah",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT"
+      ],
+      "mention_count": 1,
+      "confidence": 0.93
+    },
+    {
+      "id": "MONEY:120000.00",
+      "type": "MONEY",
+      "label": "Rs. 1,20,000",
+      "aliases": [],
+      "documents": [
+        "FIR_003_ALIAS_VARIANTS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "MONEY:200000.00",
+      "type": "MONEY",
+      "label": "Rs. 2,00,000",
+      "aliases": [],
+      "documents": [
+        "FIR_006_SHELL"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "MONEY:300000.00",
+      "type": "MONEY",
+      "label": "Rs. 3,00,000",
+      "aliases": [],
+      "documents": [
+        "FIR_004_HINDI"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "MONEY:4500000.00",
+      "type": "MONEY",
+      "label": "Rs. 45,00,000",
+      "aliases": [],
+      "documents": [
+        "FIR_005_HAWALA"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "MONEY:485000.00",
+      "type": "MONEY",
+      "label": "Rs. 4,85,000",
+      "aliases": [],
+      "documents": [
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "MONEY:490000.00",
+      "type": "MONEY",
+      "label": "Rs. 4,90,000",
+      "aliases": [],
+      "documents": [
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "MONEY:495000.00",
+      "type": "MONEY",
+      "label": "Rs. 4,95,000",
+      "aliases": [],
+      "documents": [
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "MONEY:850000.00",
+      "type": "MONEY",
+      "label": "Rs. 8,50,000",
+      "aliases": [],
+      "documents": [
+        "FIR_006_SHELL"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "MONEY:90000.00",
+      "type": "MONEY",
+      "label": "Rs. 90,000",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "ORGANIZATION:hind logistics",
+      "type": "ORGANIZATION",
+      "label": "Hind Logistics",
+      "aliases": [],
+      "documents": [
+        "FIR_005_HAWALA",
+        "FIR_006_SHELL",
+        "FIR_010_LAYERING",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 4,
+      "confidence": 0.96
+    },
+    {
+      "id": "ORGANIZATION:mehta",
+      "type": "ORGANIZATION",
+      "label": "Mehta Traders Pvt Ltd",
+      "aliases": [],
+      "documents": [
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.96
+    },
+    {
+      "id": "ORGANIZATION:salkia",
+      "type": "ORGANIZATION",
+      "label": "Salkia gang",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "FIR_007_EXTORTION",
+        "FIR_008_VEHICLE",
+        "FIR_009_ARMS",
+        "FIR_003_ALIAS_VARIANTS",
+        "FIR_011_SOCIAL",
+        "FIR_004_HINDI"
+      ],
+      "mention_count": 12,
+      "confidence": 0.93
+    },
+    {
+      "id": "ORGANIZATION:sunrise exports",
+      "type": "ORGANIZATION",
+      "label": "Sunrise Exports",
+      "aliases": [],
+      "documents": [
+        "SURVEILLANCE_002",
+        "FIR_005_HAWALA",
+        "FIR_006_SHELL",
+        "FIR_010_LAYERING"
+      ],
+      "mention_count": 6,
+      "confidence": 0.93
+    },
+    {
+      "id": "PERSON:amit agarwal",
+      "type": "PERSON",
+      "label": "Amit Agarwal",
+      "aliases": [
+        "A. Agarwal"
+      ],
+      "documents": [
+        "FIR_004_HINDI",
+        "SURVEILLANCE_002",
+        "FIR_005_HAWALA",
+        "FIR_006_SHELL",
+        "FIR_010_LAYERING",
+        "CDR-2026-Q1",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 19,
+      "confidence": 0.96
+    },
+    {
+      "id": "PERSON:anirban ghosh",
+      "type": "PERSON",
+      "label": "Sri Anirban Ghosh",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT"
+      ],
+      "mention_count": 1,
+      "confidence": 0.93
+    },
+    {
+      "id": "PERSON:bablu mondal",
+      "type": "PERSON",
+      "label": "Bablu Mondal",
+      "aliases": [],
+      "documents": [
+        "FIR_002_CREW",
+        "FIR_008_VEHICLE",
+        "SURVEILLANCE_001",
+        "FIR_003_ALIAS_VARIANTS",
+        "CDR-2026-Q1",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 12,
+      "confidence": 0.96
+    },
+    {
+      "id": "PERSON:imran sheikh",
+      "type": "PERSON",
+      "label": "Imran Sheikh",
+      "aliases": [],
+      "documents": [
+        "FIR_003_ALIAS_VARIANTS",
+        "FIR_004_HINDI",
+        "SURVEILLANCE_002",
+        "FIR_005_HAWALA",
+        "FIR_006_SHELL",
+        "FIR_010_LAYERING",
+        "CDR-2026-Q1",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 14,
+      "confidence": 0.96
+    },
+    {
+      "id": "PERSON:kallu halder",
+      "type": "PERSON",
+      "label": "Kallu Halder",
+      "aliases": [],
+      "documents": [
+        "FIR_002_CREW",
+        "FIR_007_EXTORTION",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 6,
+      "confidence": 0.95
+    },
+    {
+      "id": "PERSON:pappu das",
+      "type": "PERSON",
+      "label": "Pappu Das",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "FIR_007_EXTORTION",
+        "FIR_004_HINDI",
+        "CDR-2026-Q1",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 13,
+      "confidence": 0.96
+    },
+    {
+      "id": "PERSON:raju",
+      "type": "PERSON",
+      "label": "Raju",
+      "aliases": [],
+      "documents": [
+        "FIR_003_ALIAS_VARIANTS"
+      ],
+      "mention_count": 1,
+      "confidence": 0.9
+    },
+    {
+      "id": "PERSON:rakesh yadav",
+      "type": "PERSON",
+      "label": "Rakesh Yadav",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "FIR_008_VEHICLE",
+        "SURVEILLANCE_001",
+        "FIR_003_ALIAS_VARIANTS",
+        "FIR_011_SOCIAL",
+        "CDR-2026-Q1",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 25,
+      "confidence": 0.96
+    },
+    {
+      "id": "PERSON:sohail ansari",
+      "type": "PERSON",
+      "label": "Sohail Ansari",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS",
+        "SURVEILLANCE_001",
+        "CDR-2026-Q1",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 10,
+      "confidence": 0.96
+    },
+    {
+      "id": "PERSON:subhankar bose",
+      "type": "PERSON",
+      "label": "Subhankar Bose",
+      "aliases": [],
+      "documents": [
+        "FIR_007_EXTORTION"
+      ],
+      "mention_count": 1,
+      "confidence": 0.93
+    },
+    {
+      "id": "PERSON:vikram singh",
+      "type": "PERSON",
+      "label": "Vikram Singh",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "FIR_007_EXTORTION",
+        "FIR_008_VEHICLE",
+        "FIR_009_ARMS",
+        "SURVEILLANCE_001",
+        "FIR_003_ALIAS_VARIANTS",
+        "FIR_011_SOCIAL",
+        "CDR-2026-Q1",
+        "TXN-2026-Q1"
+      ],
+      "mention_count": 24,
+      "confidence": 0.96
+    },
+    {
+      "id": "PHONE:+919007654321",
+      "type": "PHONE",
+      "label": "9007654321",
+      "aliases": [],
+      "documents": [
+        "FIR_002_CREW",
+        "FIR_003_ALIAS_VARIANTS",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 3,
+      "confidence": 0.99
+    },
+    {
+      "id": "PHONE:+919123456780",
+      "type": "PHONE",
+      "label": "9123456780",
+      "aliases": [],
+      "documents": [
+        "FIR_009_ARMS",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 2,
+      "confidence": 0.99
+    },
+    {
+      "id": "PHONE:+919830011122",
+      "type": "PHONE",
+      "label": "9830011122",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "FIR_007_EXTORTION",
+        "FIR_008_VEHICLE",
+        "FIR_009_ARMS",
+        "FIR_003_ALIAS_VARIANTS",
+        "FIR_011_SOCIAL",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 10,
+      "confidence": 0.99
+    },
+    {
+      "id": "PHONE:+919830012345",
+      "type": "PHONE",
+      "label": "9830012345",
+      "aliases": [],
+      "documents": [
+        "FIR_003_ALIAS_VARIANTS",
+        "FIR_004_HINDI",
+        "FIR_005_HAWALA",
+        "FIR_006_SHELL",
+        "FIR_010_LAYERING",
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 6,
+      "confidence": 0.99
+    },
+    {
+      "id": "PHONE:+919845001122",
+      "type": "PHONE",
+      "label": "+919845001122",
+      "aliases": [],
+      "documents": [
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.99
+    },
+    {
+      "id": "PHONE:+919845002233",
+      "type": "PHONE",
+      "label": "+919845002233",
+      "aliases": [],
+      "documents": [
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.99
+    },
+    {
+      "id": "PHONE:+919845003344",
+      "type": "PHONE",
+      "label": "+919845003344",
+      "aliases": [],
+      "documents": [
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.99
+    },
+    {
+      "id": "PHONE:+919845004455",
+      "type": "PHONE",
+      "label": "+919845004455",
+      "aliases": [],
+      "documents": [
+        "CDR-2026-Q1"
+      ],
+      "mention_count": 1,
+      "confidence": 0.99
+    },
+    {
+      "id": "SOCIAL_HANDLE:@rk_yadav97",
+      "type": "SOCIAL_HANDLE",
+      "label": "rk_yadav97",
+      "aliases": [],
+      "documents": [
+        "FIR_011_SOCIAL"
+      ],
+      "mention_count": 1,
+      "confidence": 0.94
+    },
+    {
+      "id": "SOCIAL_HANDLE:@salkia_boss",
+      "type": "SOCIAL_HANDLE",
+      "label": "salkia_boss",
+      "aliases": [],
+      "documents": [
+        "FIR_011_SOCIAL"
+      ],
+      "mention_count": 2,
+      "confidence": 0.94
+    },
+    {
+      "id": "VEHICLE:WB02AB1234",
+      "type": "VEHICLE",
+      "label": "WB 02 AB 1234",
+      "aliases": [],
+      "documents": [
+        "FIR_001_THEFT",
+        "FIR_002_CREW",
+        "FIR_008_VEHICLE",
+        "SURVEILLANCE_001"
+      ],
+      "mention_count": 4,
+      "confidence": 0.93
+    },
+    {
+      "id": "VEHICLE:WB06CD7788",
+      "type": "VEHICLE",
+      "label": "WB 06 CD 7788",
+      "aliases": [],
+      "documents": [
+        "FIR_005_HAWALA"
+      ],
+      "mention_count": 1,
+      "confidence": 0.93
+    },
+    {
+      "id": "WEAPON:country-made pistol",
+      "type": "WEAPON",
+      "label": "country-made pistol",
+      "aliases": [],
+      "documents": [
+        "FIR_008_VEHICLE",
+        "FIR_005_HAWALA"
+      ],
+      "mention_count": 2,
+      "confidence": 0.93
+    }
+  ],
+  "edges": [
+    {
+      "source": "BANK_ACCOUNT:40561234789",
+      "target": "ORGANIZATION:hind logistics",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.8230000000000001,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Amit Agarwal remitted Rs. 45,00,000 to a/c no. 40561234789 held by Hind Logistics between 10/02/2026 and 28/02/2026."
+        },
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferred Rs. 4,85,000 to the same account on 13/03/2026."
+        }
+      ],
+      "attributes": {
+        "amount": "490000.00",
+        "date": "2026-03-18"
+      }
+    },
+    {
+      "source": "LOCATION:bowbazar",
+      "target": "PERSON:subhankar bose",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.32,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "FIR No. 188/2026 Police Station: Bowbazar, Kolkata Date of Registration: 28/01/2026 Complainant Subhankar Bose, proprietor of a shop at Canning Street, stated that on 27/01/2026 two persons demanded protection money from him."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:burrabazar",
+      "target": "ORGANIZATION:hind logistics",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.319,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferred Rs. 4,85,000 to the same account on 13/03/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:burrabazar",
+      "target": "ORGANIZATION:sunrise exports",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.319,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_006_SHELL",
+          "sentence": "FIR No. 249/2026 Police Station: Burrabazar, Kolkata Date of Registration: 11/03/2026 Enquiry into Sunrise Exports revealed that Amit Agarwal, alias A."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:burrabazar",
+      "target": "PERSON:amit agarwal",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.497,
+      "occurrences": 3,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_002",
+          "sentence": "SURVEILLANCE REPORT SR-2026-031 Unit: Economic Offences Watch, Burrabazar Date: 06/03/2026 Subject Amit Agarwal was observed at Canning Street between 11:10 and 12:05 hrs. Amit Agarwal met Imran Sheikh at the location."
+        },
+        {
+          "doc_id": "FIR_006_SHELL",
+          "sentence": "FIR No. 249/2026 Police Station: Burrabazar, Kolkata Date of Registration: 11/03/2026 Enquiry into Sunrise Exports revealed that Amit Agarwal, alias A."
+        },
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferred Rs. 4,85,000 to the same account on 13/03/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:canning street",
+      "target": "PERSON:amit agarwal",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.344,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_002",
+          "sentence": "SURVEILLANCE REPORT SR-2026-031 Unit: Economic Offences Watch, Burrabazar Date: 06/03/2026 Subject Amit Agarwal was observed at Canning Street between 11:10 and 12:05 hrs. Amit Agarwal met Imran Sheikh at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:canning street",
+      "target": "PERSON:imran sheikh",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.328,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_002",
+          "sentence": "SURVEILLANCE REPORT SR-2026-031 Unit: Economic Offences Watch, Burrabazar Date: 06/03/2026 Subject Amit Agarwal was observed at Canning Street between 11:10 and 12:05 hrs. Amit Agarwal met Imran Sheikh at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:howrah",
+      "target": "PERSON:bablu mondal",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.311,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "FIR No. 168/2026 Police Station: Howrah, Kolkata Date of Registration: 22/01/2026 On 21/01/2026 accused Bablu Mondal was arrested near Salkia."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:howrah",
+      "target": "PERSON:rakesh yadav",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.324,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "FIR No. 311/2026 Police Station: Howrah, Kolkata Date of Registration: 19/02/2026 Accused Rakesh Yadav, alias Rakesh Yadev, alias R."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:howrah",
+      "target": "PERSON:vikram singh",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.347,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "SURVEILLANCE REPORT SR-2026-014 Unit: Special Watch, Howrah Date: 09/02/2026 Subject Vikram Singh was observed at Salkia between 18:40 and 19:20 hrs. Vikram Singh met Rakesh Yadav at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "ORGANIZATION:hind logistics",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.327,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferred Rs. 4,85,000 to the same account on 13/03/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "ORGANIZATION:sunrise exports",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.327,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_006_SHELL",
+          "sentence": "FIR No. 249/2026 Police Station: Burrabazar, Kolkata Date of Registration: 11/03/2026 Enquiry into Sunrise Exports revealed that Amit Agarwal, alias A."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "PERSON:amit agarwal",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.35,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_006_SHELL",
+          "sentence": "FIR No. 249/2026 Police Station: Burrabazar, Kolkata Date of Registration: 11/03/2026 Enquiry into Sunrise Exports revealed that Amit Agarwal, alias A."
+        },
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferred Rs. 4,85,000 to the same account on 13/03/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "PERSON:bablu mondal",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.319,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "FIR No. 168/2026 Police Station: Howrah, Kolkata Date of Registration: 22/01/2026 On 21/01/2026 accused Bablu Mondal was arrested near Salkia."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "PERSON:imran sheikh",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.312,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_004_HINDI",
+          "sentence": "FIR No. 402/2026 Police Station: Rajabazar, Kolkata Date of Registration: 25/02/2026 दिनांक 24/02/2026 को अभियुक्त Imran Sheikh ने मोबाइल नंबर 9830012345 से Amit Agarwal को फोन किया।"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "PERSON:rakesh yadav",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.332,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "FIR No. 311/2026 Police Station: Howrah, Kolkata Date of Registration: 19/02/2026 Accused Rakesh Yadav, alias Rakesh Yadev, alias R."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "PERSON:sohail ansari",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.319,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "FIR No. 264/2026 Police Station: Rajabazar, Kolkata Date of Registration: 12/02/2026 On 11/02/2026 accused Sohail Ansari was arrested near Rajabazar with two country-made pistols."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "PERSON:subhankar bose",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.328,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "FIR No. 188/2026 Police Station: Bowbazar, Kolkata Date of Registration: 28/01/2026 Complainant Subhankar Bose, proprietor of a shop at Canning Street, stated that on 27/01/2026 two persons demanded protection money from him."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:kolkata",
+      "target": "PERSON:vikram singh",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.295,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "FIR No. 221/2026 Police Station: Salkia, Kolkata Date of Registration: 05/02/2026 Vehicle WB 02 AB 1234 registered in the name of Vikram Singh was intercepted at Salkia on 04/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:rajabazar",
+      "target": "PERSON:imran sheikh",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.303,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_004_HINDI",
+          "sentence": "FIR No. 402/2026 Police Station: Rajabazar, Kolkata Date of Registration: 25/02/2026 दिनांक 24/02/2026 को अभियुक्त Imran Sheikh ने मोबाइल नंबर 9830012345 से Amit Agarwal को फोन किया।"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:rajabazar",
+      "target": "PERSON:sohail ansari",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.311,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "FIR No. 264/2026 Police Station: Rajabazar, Kolkata Date of Registration: 12/02/2026 On 11/02/2026 accused Sohail Ansari was arrested near Rajabazar with two country-made pistols."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:salkia",
+      "target": "PERSON:rakesh yadav",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.328,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "SURVEILLANCE REPORT SR-2026-014 Unit: Special Watch, Howrah Date: 09/02/2026 Subject Vikram Singh was observed at Salkia between 18:40 and 19:20 hrs. Vikram Singh met Rakesh Yadav at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "LOCATION:salkia",
+      "target": "PERSON:vikram singh",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.344,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "SURVEILLANCE REPORT SR-2026-014 Unit: Special Watch, Howrah Date: 09/02/2026 Subject Vikram Singh was observed at Salkia between 18:40 and 19:20 hrs. Vikram Singh met Rakesh Yadav at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "ORGANIZATION:salkia",
+      "target": "LOCATION:howrah",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.342,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal is a member of the Salkia gang and was seen with Pappu Das at Howrah on 20/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "ORGANIZATION:sunrise exports",
+      "target": "PERSON:amit agarwal",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.358,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_006_SHELL",
+          "sentence": "FIR No. 249/2026 Police Station: Burrabazar, Kolkata Date of Registration: 11/03/2026 Enquiry into Sunrise Exports revealed that Amit Agarwal, alias A."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "BANK_ACCOUNT:40561234789",
+      "type": "OWNS_ACCOUNT",
+      "confidence": 0.97,
+      "occurrences": 6,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 40561234789 operated by Amit Agarwal."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 40561234789 operated by Amit Agarwal."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 40561234789 operated by Amit Agarwal."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "BANK_ACCOUNT:40561234789",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.773,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Amit Agarwal remitted Rs. 45,00,000 to a/c no. 40561234789 held by Hind Logistics between 10/02/2026 and 28/02/2026."
+        },
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferred Rs. 4,85,000 to the same account on 13/03/2026."
+        }
+      ],
+      "attributes": {
+        "amount": "490000.00",
+        "date": "2026-03-18"
+      }
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "LOCATION:canning street",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.356,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_002",
+          "sentence": "SURVEILLANCE REPORT SR-2026-031 Unit: Economic Offences Watch, Burrabazar Date: 06/03/2026 Subject Amit Agarwal was observed at Canning Street between 11:10 and 12:05 hrs. Amit Agarwal met Imran Sheikh at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "ORGANIZATION:hind logistics",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 8,
+      "evidence": [
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Amit Agarwal remitted Rs. 45,00,000 to a/c no. 40561234789 held by Hind Logistics between 10/02/2026 and 28/02/2026."
+        },
+        {
+          "doc_id": "FIR_006_SHELL",
+          "sentence": "Amit Agarwal remitted Rs. 8,50,000 to Hind Logistics on 05/03/2026."
+        },
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "FIR No. 288/2026 Police Station: Burrabazar, Kolkata Date of Registration: 18/03/2026 Enquiry into Hind Logistics revealed that Amit Agarwal remitted Rs. 4,90,000 to a/c no. 40561234789 on 12/03/2026 and again transferred Rs. 4,85,000 to the same account on 13/03/2026."
+        }
+      ],
+      "attributes": {
+        "amount": "495000.00",
+        "date": "2026-03-14",
+        "mode": "NEFT",
+        "account": "40561234789"
+      }
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "ORGANIZATION:sunrise exports",
+      "type": "EMPLOYED_BY",
+      "confidence": 0.801,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Amit Agarwal works for Sunrise Exports."
+        },
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "Amit Agarwal works for Sunrise Exports."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "ORGANIZATION:sunrise exports",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.345,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_002",
+          "sentence": "Amit Agarwal returned to the premises of Sunrise Exports."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "ORGANIZATION:sunrise exports",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.759,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Accused Amit Agarwal, proprietor of Sunrise Exports, was found operating a hawala channel."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "PERSON:imran sheikh",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 4,
+      "evidence": [
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Call records show Amit Agarwal spoke with Imran Sheikh on 9830012345 on 28/02/2026."
+        },
+        {
+          "doc_id": "FIR_006_SHELL",
+          "sentence": "Amit Agarwal called Imran Sheikh on 9830012345 on 06/03/2026 and paid Rs. 2,00,000 to Imran Sheikh on 08/03/2026."
+        },
+        {
+          "doc_id": "FIR_010_LAYERING",
+          "sentence": "Amit Agarwal called Imran Sheikh on 9830012345 on 14/03/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 6,
+        "total_seconds": 381,
+        "night_calls": 0,
+        "towers": [
+          "Burrabazar"
+        ],
+        "first_call": "2026-01-07T10:30:00",
+        "last_call": "2026-01-15T09:30:00"
+      }
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "PERSON:imran sheikh",
+      "type": "SEEN_WITH",
+      "confidence": 0.591,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_002",
+          "sentence": "SURVEILLANCE REPORT SR-2026-031 Unit: Economic Offences Watch, Burrabazar Date: 06/03/2026 Subject Amit Agarwal was observed at Canning Street between 11:10 and 12:05 hrs. Amit Agarwal met Imran Sheikh at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "PERSON:imran sheikh",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "IMPS of Rs. 200,000 from Amit Agarwal to Imran Sheikh on 2026-03-08."
+        }
+      ],
+      "attributes": {
+        "amount": "200000.00",
+        "date": "2026-03-08",
+        "mode": "IMPS",
+        "account": "40561234789"
+      }
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "PHONE:+919830012345",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 4,
+      "evidence": [
+        {
+          "doc_id": "FIR_004_HINDI",
+          "sentence": "FIR No. 402/2026 Police Station: Rajabazar, Kolkata Date of Registration: 25/02/2026 दिनांक 24/02/2026 को अभियुक्त Imran Sheikh ने मोबाइल नंबर 9830012345 से Amit Agarwal को फोन किया।"
+        },
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Call records show Amit Agarwal spoke with Imran Sheikh on 9830012345 on 28/02/2026."
+        },
+        {
+          "doc_id": "FIR_006_SHELL",
+          "sentence": "Amit Agarwal called Imran Sheikh on 9830012345 on 06/03/2026 and paid Rs. 2,00,000 to Imran Sheikh on 08/03/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "PHONE:+919845004455",
+      "type": "USES_PHONE",
+      "confidence": 0.95,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "Subscriber register: +919845004455 registered to Amit Agarwal."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:amit agarwal",
+      "target": "VEHICLE:WB06CD7788",
+      "type": "OWNS_VEHICLE",
+      "confidence": 0.711,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Vehicle WB 06 CD 7788 registered in the name of Amit Agarwal was seized."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:anirban ghosh",
+      "target": "LOCATION:beadon street",
+      "type": "LOCATED_AT",
+      "confidence": 0.673,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:anirban ghosh",
+      "target": "LOCATION:bowbazar",
+      "type": "LOCATED_AT",
+      "confidence": 0.6,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:anirban ghosh",
+      "target": "LOCATION:kolkata",
+      "type": "LOCATED_AT",
+      "confidence": 0.616,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:anirban ghosh",
+      "target": "LOCATION:sealdah",
+      "type": "LOCATED_AT",
+      "confidence": 0.549,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "LOCATION:howrah",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.313,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal is a member of the Salkia gang and was seen with Pappu Das at Howrah on 20/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "LOCATION:salkia",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.418,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "FIR No. 168/2026 Police Station: Howrah, Kolkata Date of Registration: 22/01/2026 On 21/01/2026 accused Bablu Mondal was arrested near Salkia."
+        },
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "Vikram Singh was seen with Bablu Mondal at Salkia on 09/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "ORGANIZATION:salkia",
+      "type": "MEMBER_OF",
+      "confidence": 0.724,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal is a member of the Salkia gang and was seen with Pappu Das at Howrah on 20/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "ORGANIZATION:salkia",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.353,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "Bablu Mondal is a member of the Salkia gang."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "PERSON:pappu das",
+      "type": "SEEN_WITH",
+      "confidence": 0.643,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal is a member of the Salkia gang and was seen with Pappu Das at Howrah on 20/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "PERSON:rakesh yadav",
+      "type": "CALLED",
+      "confidence": 0.87,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal called Rakesh Yadav from mobile no. 9007654321 on 21/01/2026."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "4 calls between +919007654321 and +919845001122 totalling 618s, 21/01/2026 to 23/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 4,
+        "total_seconds": 618,
+        "night_calls": 0,
+        "towers": [
+          "Salkia"
+        ],
+        "first_call": "2026-01-21T18:37:00",
+        "last_call": "2026-01-23T18:39:00"
+      }
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "PERSON:rakesh yadav",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.309,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "Bablu Mondal stated that Vikram Singh had instructed him to deliver a packet to Rakesh Yadav."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "PERSON:vikram singh",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 3,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal called Vikram Singh on mobile no. 9830011122 on 20/01/2026."
+        },
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "Bablu Mondal called Vikram Singh on 9830011122 on 04/02/2026."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "9 calls between +919007654321 and +919830011122 totalling 434s, 21/01/2026 to 27/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 9,
+        "total_seconds": 434,
+        "night_calls": 4,
+        "towers": [
+          "Salkia"
+        ],
+        "first_call": "2026-01-21T19:46:00",
+        "last_call": "2026-01-27T22:05:00"
+      }
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "PERSON:vikram singh",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.36,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "Bablu Mondal stated that Vikram Singh had instructed him to deliver a packet to Rakesh Yadav."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "PHONE:+919007654321",
+      "type": "CALLED",
+      "confidence": 0.726,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal called Rakesh Yadav from mobile no. 9007654321 on 21/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "PHONE:+919007654321",
+      "type": "USES_PHONE",
+      "confidence": 0.97,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "Rakesh Yadav also used contact no. 9007654321, which was earlier used by Bablu Mondal."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "Subscriber register: +919007654321 registered to Bablu Mondal."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:bablu mondal",
+      "target": "PHONE:+919830011122",
+      "type": "CALLED",
+      "confidence": 0.802,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal called Vikram Singh on mobile no. 9830011122 on 20/01/2026."
+        },
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "Bablu Mondal called Vikram Singh on 9830011122 on 04/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "BANK_ACCOUNT:30982211445",
+      "type": "OWNS_ACCOUNT",
+      "confidence": 0.97,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 30982211445 operated by Imran Sheikh."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "BANK_ACCOUNT:40561234789",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.725,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_004_HINDI",
+          "sentence": "Imran Sheikh ने Rs. 3,00,000 की राशि a/c no. 40561234789 में भेजी।"
+        }
+      ],
+      "attributes": {
+        "amount": "300000.00"
+      }
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "LOCATION:metiabruz",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.338,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_002",
+          "sentence": "Imran Sheikh was carrying a bag and left towards Metiabruz."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "ORGANIZATION:salkia",
+      "type": "MEMBER_OF",
+      "confidence": 0.759,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_004_HINDI",
+          "sentence": "Imran Sheikh, Salkia gang का सदस्य है।"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "PERSON:amit agarwal",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_004_HINDI",
+          "sentence": "FIR No. 402/2026 Police Station: Rajabazar, Kolkata Date of Registration: 25/02/2026 दिनांक 24/02/2026 को अभियुक्त Imran Sheikh ने मोबाइल नंबर 9830012345 से Amit Agarwal को फोन किया।"
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "9 calls between +919830012345 and +919845004455 totalling 1007s, 25/01/2026 to 29/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 9,
+        "total_seconds": 1007,
+        "night_calls": 0,
+        "towers": [
+          "Burrabazar"
+        ],
+        "first_call": "2026-01-25T11:30:00",
+        "last_call": "2026-01-29T11:58:00"
+      }
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "PERSON:amit agarwal",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "RTGS of Rs. 300,000 from Imran Sheikh to Amit Agarwal on 2026-02-24."
+        }
+      ],
+      "attributes": {
+        "amount": "300000.00",
+        "date": "2026-02-24",
+        "mode": "RTGS",
+        "account": "30982211445"
+      }
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "PERSON:pappu das",
+      "type": "CALLED",
+      "confidence": 0.792,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_004_HINDI",
+          "sentence": "Imran Sheikh ने Pappu Das को भी फोन किया।"
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "PHONE:+919830012345",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 5,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "During interrogation, Rakesh Yadev admitted that he called Imran Sheikh from mobile no. 9830012345 on 12/02/2026."
+        },
+        {
+          "doc_id": "FIR_004_HINDI",
+          "sentence": "FIR No. 402/2026 Police Station: Rajabazar, Kolkata Date of Registration: 25/02/2026 दिनांक 24/02/2026 को अभियुक्त Imran Sheikh ने मोबाइल नंबर 9830012345 से Amit Agarwal को फोन किया।"
+        },
+        {
+          "doc_id": "FIR_005_HAWALA",
+          "sentence": "Call records show Amit Agarwal spoke with Imran Sheikh on 9830012345 on 28/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:imran sheikh",
+      "target": "PHONE:+919830012345",
+      "type": "USES_PHONE",
+      "confidence": 0.95,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "Subscriber register: +919830012345 registered to Imran Sheikh."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:kallu halder",
+      "target": "LOCATION:burrabazar",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.346,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Kallu Halder was seen with Pappu Das at Burrabazar on 27/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:kallu halder",
+      "target": "ORGANIZATION:salkia",
+      "type": "MEMBER_OF",
+      "confidence": 0.774,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Kallu Halder is a member of the Salkia gang."
+        },
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Kallu Halder is a member of the Salkia gang."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:kallu halder",
+      "target": "PERSON:pappu das",
+      "type": "SEEN_WITH",
+      "confidence": 0.707,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Kallu Halder was seen with Pappu Das at Burrabazar on 27/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:kallu halder",
+      "target": "PERSON:vikram singh",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Accused Kallu Halder also called Vikram Singh on 9830011122 on 21/01/2026."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "8 calls between +919845003344 and +919830011122 totalling 694s, 24/01/2026 to 29/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 8,
+        "total_seconds": 694,
+        "night_calls": 8,
+        "towers": [
+          "Burrabazar"
+        ],
+        "first_call": "2026-01-24T22:14:00",
+        "last_call": "2026-01-29T23:35:00"
+      }
+    },
+    {
+      "source": "PERSON:kallu halder",
+      "target": "PHONE:+919830011122",
+      "type": "CALLED",
+      "confidence": 0.742,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Accused Kallu Halder also called Vikram Singh on 9830011122 on 21/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:kallu halder",
+      "target": "PHONE:+919845003344",
+      "type": "USES_PHONE",
+      "confidence": 0.95,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "Subscriber register: +919845003344 registered to Kallu Halder."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "LOCATION:burrabazar",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.368,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Kallu Halder was seen with Pappu Das at Burrabazar on 27/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "LOCATION:howrah",
+      "type": "LOCATED_AT",
+      "confidence": 0.687,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "LOCATION:howrah",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.368,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal is a member of the Salkia gang and was seen with Pappu Das at Howrah on 20/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "LOCATION:salkia",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.368,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "Rakesh Yadav was seen with Pappu Das at Salkia on 15-01-2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "ORGANIZATION:salkia",
+      "type": "MEMBER_OF",
+      "confidence": 0.876,
+      "occurrences": 3,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "Pappu Das is also a member of the Salkia gang."
+        },
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal is a member of the Salkia gang and was seen with Pappu Das at Howrah on 20/01/2026."
+        },
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Pappu Das is a member of the Salkia gang."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "PERSON:imran sheikh",
+      "type": "CALLED",
+      "confidence": 0.82,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "4 calls between +919845002233 and +919830012345 totalling 200s, 25/01/2026 to 27/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 4,
+        "total_seconds": 200,
+        "night_calls": 0,
+        "towers": [
+          "Howrah"
+        ],
+        "first_call": "2026-01-25T11:06:00",
+        "last_call": "2026-01-27T11:33:00"
+      }
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "PERSON:kallu halder",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.367,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Investigation identified Pappu Das and Kallu Halder as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "PERSON:vikram singh",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 3,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Pappu Das also contacted Vikram Singh on the same number on 21/01/2026."
+        },
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Pappu Das called Vikram Singh on 9830011122 on 27/01/2026 immediately after the incident."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "11 calls between +919845002233 and +919830011122 totalling 1340s, 22/01/2026 to 29/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 11,
+        "total_seconds": 1340,
+        "night_calls": 11,
+        "towers": [
+          "Howrah"
+        ],
+        "first_call": "2026-01-22T23:19:00",
+        "last_call": "2026-01-29T22:10:00"
+      }
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "PHONE:+919830011122",
+      "type": "CALLED",
+      "confidence": 0.752,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Pappu Das called Vikram Singh on 9830011122 on 27/01/2026 immediately after the incident."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:pappu das",
+      "target": "PHONE:+919845002233",
+      "type": "USES_PHONE",
+      "confidence": 0.95,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "Subscriber register: +919845002233 registered to Pappu Das."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:raju",
+      "target": "LOCATION:salkia",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.342,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "Yadav, alias Raju, was arrested near Salkia on 18/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "BANK_ACCOUNT:20345678901",
+      "type": "OWNS_ACCOUNT",
+      "confidence": 0.97,
+      "occurrences": 3,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 20345678901 operated by Rakesh Yadav."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 20345678901 operated by Rakesh Yadav."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 20345678901 operated by Rakesh Yadav."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "LOCATION:howrah",
+      "type": "LOCATED_AT",
+      "confidence": 0.673,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "LOCATION:salkia",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.353,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "Rakesh Yadav is a member of the Salkia gang."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "LOCATION:sealdah",
+      "type": "LOCATED_AT",
+      "confidence": 0.563,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "ORGANIZATION:mehta",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "NEFT of Rs. 250,000 from Rakesh Yadav to Mehta Traders Pvt Ltd on 2026-01-15."
+        }
+      ],
+      "attributes": {
+        "amount": "250000.00",
+        "date": "2026-01-15",
+        "mode": "NEFT",
+        "account": "20345678901"
+      }
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "ORGANIZATION:salkia",
+      "type": "MEMBER_OF",
+      "confidence": 0.774,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "Ramesh Yadav is a member of the Salkia gang."
+        },
+        {
+          "doc_id": "FIR_011_SOCIAL",
+          "sentence": "Rakesh Yadav is a member of the Salkia gang."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PERSON:bablu mondal",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.315,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "Rakesh Yadav also used contact no. 9007654321, which was earlier used by Bablu Mondal."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PERSON:imran sheikh",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "During interrogation, Rakesh Yadev admitted that he called Imran Sheikh from mobile no. 9830012345 on 12/02/2026."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "7 calls between +919845001122 and +919830012345 totalling 691s, 13/01/2026 to 20/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 7,
+        "total_seconds": 691,
+        "night_calls": 0,
+        "towers": [
+          "Howrah"
+        ],
+        "first_call": "2026-01-13T10:00:00",
+        "last_call": "2026-01-20T13:30:00"
+      }
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PERSON:imran sheikh",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 3,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "Rakesh Yadav paid Rs. 1,20,000 to Imran Sheikh on 12/02/2026."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "IMPS of Rs. 120,000 from Rakesh Yadav to Imran Sheikh on 2026-02-12."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "IMPS of Rs. 290,000 from Rakesh Yadav to Imran Sheikh on 2026-02-23."
+        }
+      ],
+      "attributes": {
+        "amount": "290000.00",
+        "date": "2026-02-23",
+        "mode": "IMPS",
+        "account": "20345678901"
+      }
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PERSON:pappu das",
+      "type": "CALLED",
+      "confidence": 0.87,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "5 calls between +919845001122 and +919845002233 totalling 141s, 15/01/2026 to 18/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 5,
+        "total_seconds": 141,
+        "night_calls": 0,
+        "towers": [
+          "Salkia"
+        ],
+        "first_call": "2026-01-15T19:10:00",
+        "last_call": "2026-01-18T21:25:00"
+      }
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PERSON:pappu das",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.348,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "FIR No. 142/2026 Police Station: Bowbazar, Kolkata Date of Registration: 14/01/2026 Complainant Sri Anirban Ghosh, resident of Beadon Street, lodged a complaint regarding a robbery at his shop near Sealdah Station on 14/01/2026 at about 21:30 hrs. Investigation identified accused Rakesh Yadav, resident of Howrah, and Pappu Das as the persons involved."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PERSON:pappu das",
+      "type": "SEEN_WITH",
+      "confidence": 0.707,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "Rakesh Yadav was seen with Pappu Das at the spot."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PERSON:vikram singh",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 3,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "Investigation revealed that Rakesh Yadav called Vikram Singh on mobile no. 9830011122 shortly after the incident."
+        },
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "Ramesh Yadav called Vikram Singh on 9830011122 on 16/02/2026."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "20 calls between +919845001122 and +919830011122 totalling 1533s, 14/01/2026 to 19/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 20,
+        "total_seconds": 1533,
+        "night_calls": 5,
+        "towers": [
+          "Bowbazar",
+          "Salkia"
+        ],
+        "first_call": "2026-01-14T21:35:00",
+        "last_call": "2026-01-19T21:23:00"
+      }
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PHONE:+919007654321",
+      "type": "CALLED",
+      "confidence": 0.766,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal called Rakesh Yadav from mobile no. 9007654321 on 21/01/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PHONE:+919007654321",
+      "type": "USES_PHONE",
+      "confidence": 0.736,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "Rakesh Yadav also used contact no. 9007654321, which was earlier used by Bablu Mondal."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PHONE:+919830011122",
+      "type": "CALLED",
+      "confidence": 0.802,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "Investigation revealed that Rakesh Yadav called Vikram Singh on mobile no. 9830011122 shortly after the incident."
+        },
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "Ramesh Yadav called Vikram Singh on 9830011122 on 16/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PHONE:+919830012345",
+      "type": "CALLED",
+      "confidence": 0.692,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_003_ALIAS_VARIANTS",
+          "sentence": "During interrogation, Rakesh Yadev admitted that he called Imran Sheikh from mobile no. 9830012345 on 12/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:rakesh yadav",
+      "target": "PHONE:+919845001122",
+      "type": "USES_PHONE",
+      "confidence": 0.95,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "Subscriber register: +919845001122 registered to Rakesh Yadav."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:sohail ansari",
+      "target": "LOCATION:rajabazar",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.354,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "FIR No. 264/2026 Police Station: Rajabazar, Kolkata Date of Registration: 12/02/2026 On 11/02/2026 accused Sohail Ansari was arrested near Rajabazar with two country-made pistols."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:sohail ansari",
+      "target": "LOCATION:salkia",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.343,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "A second subject, Sohail Ansari, joined the group at approximately 19:05 hrs. Sohail Ansari was seen with Vikram Singh at Salkia."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:sohail ansari",
+      "target": "ORGANIZATION:salkia",
+      "type": "MEMBER_OF",
+      "confidence": 0.724,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "Sohail Ansari is a member of the Salkia gang."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:sohail ansari",
+      "target": "PERSON:vikram singh",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "Sohail Ansari called Vikram Singh on 9830011122 on 09/02/2026."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "6 calls between +919123456780 and +919830011122 totalling 584s, 10/01/2026 to 13/01/2026."
+        }
+      ],
+      "attributes": {
+        "call_count": 6,
+        "total_seconds": 584,
+        "night_calls": 6,
+        "towers": [
+          "Rajabazar"
+        ],
+        "first_call": "2026-01-10T02:04:00",
+        "last_call": "2026-01-13T04:25:00"
+      }
+    },
+    {
+      "source": "PERSON:sohail ansari",
+      "target": "PERSON:vikram singh",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.335,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "Sohail Ansari stated that he had supplied weapons to Vikram Singh."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:sohail ansari",
+      "target": "PERSON:vikram singh",
+      "type": "SEEN_WITH",
+      "confidence": 0.597,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "A second subject, Sohail Ansari, joined the group at approximately 19:05 hrs. Sohail Ansari was seen with Vikram Singh at Salkia."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:sohail ansari",
+      "target": "PHONE:+919123456780",
+      "type": "USES_PHONE",
+      "confidence": 0.97,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "Sohail Ansari uses email sohail.ansari.trade@gmail.com and mobile no. 9123456780."
+        },
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "Subscriber register: +919123456780 registered to Sohail Ansari."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:sohail ansari",
+      "target": "PHONE:+919830011122",
+      "type": "CALLED",
+      "confidence": 0.752,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "Sohail Ansari called Vikram Singh on 9830011122 on 09/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:subhankar bose",
+      "target": "LOCATION:canning street",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.348,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "FIR No. 188/2026 Police Station: Bowbazar, Kolkata Date of Registration: 28/01/2026 Complainant Subhankar Bose, proprietor of a shop at Canning Street, stated that on 27/01/2026 two persons demanded protection money from him."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "BANK_ACCOUNT:55110099887",
+      "type": "OWNS_ACCOUNT",
+      "confidence": 0.97,
+      "occurrences": 4,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 55110099887 operated by Vikram Singh."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 55110099887 operated by Vikram Singh."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "Account 55110099887 operated by Vikram Singh."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "LOCATION:salkia",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.506,
+      "occurrences": 3,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Vehicle WB 02 AB 1234 registered in the name of Vikram Singh was seized from Salkia."
+        },
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "FIR No. 221/2026 Police Station: Salkia, Kolkata Date of Registration: 05/02/2026 Vehicle WB 02 AB 1234 registered in the name of Vikram Singh was intercepted at Salkia on 04/02/2026."
+        },
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "SURVEILLANCE REPORT SR-2026-014 Unit: Special Watch, Howrah Date: 09/02/2026 Subject Vikram Singh was observed at Salkia between 18:40 and 19:20 hrs. Vikram Singh met Rakesh Yadav at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "ORGANIZATION:salkia",
+      "type": "MEMBER_OF",
+      "confidence": 0.724,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Vikram Singh is a member of the Salkia gang and is believed to be directing its operations."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PERSON:bablu mondal",
+      "type": "SEEN_WITH",
+      "confidence": 0.707,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "Vikram Singh was seen with Bablu Mondal at Salkia on 09/02/2026."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PERSON:bablu mondal",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "IMPS of Rs. 40,000 from Vikram Singh to Bablu Mondal on 2026-02-18."
+        }
+      ],
+      "attributes": {
+        "amount": "40000.00",
+        "date": "2026-02-18",
+        "mode": "IMPS",
+        "account": "55110099887"
+      }
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PERSON:pappu das",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "IMPS of Rs. 45,000 from Vikram Singh to Pappu Das on 2026-02-02."
+        }
+      ],
+      "attributes": {
+        "amount": "45000.00",
+        "date": "2026-02-02",
+        "mode": "IMPS",
+        "account": "55110099887"
+      }
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PERSON:rakesh yadav",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.332,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "Bablu Mondal stated that Vikram Singh had instructed him to deliver a packet to Rakesh Yadav."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PERSON:rakesh yadav",
+      "type": "SEEN_WITH",
+      "confidence": 0.606,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "SURVEILLANCE_001",
+          "sentence": "SURVEILLANCE REPORT SR-2026-014 Unit: Special Watch, Howrah Date: 09/02/2026 Subject Vikram Singh was observed at Salkia between 18:40 and 19:20 hrs. Vikram Singh met Rakesh Yadav at the location."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PERSON:rakesh yadav",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "IMPS of Rs. 60,000 from Vikram Singh to Rakesh Yadav on 2026-01-20."
+        }
+      ],
+      "attributes": {
+        "amount": "60000.00",
+        "date": "2026-01-20",
+        "mode": "IMPS",
+        "account": "55110099887"
+      }
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PERSON:sohail ansari",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.97,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_009_ARMS",
+          "sentence": "Vikram Singh paid Rs. 90,000 to Sohail Ansari on 10/02/2026."
+        },
+        {
+          "doc_id": "TXN-2026-Q1",
+          "sentence": "IMPS of Rs. 90,000 from Vikram Singh to Sohail Ansari on 2026-02-10."
+        }
+      ],
+      "attributes": {
+        "amount": "90000.00",
+        "date": "2026-02-10",
+        "mode": "IMPS",
+        "account": "55110099887"
+      }
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PHONE:+919830011122",
+      "type": "CALLED",
+      "confidence": 0.97,
+      "occurrences": 6,
+      "evidence": [
+        {
+          "doc_id": "FIR_001_THEFT",
+          "sentence": "Investigation revealed that Rakesh Yadav called Vikram Singh on mobile no. 9830011122 shortly after the incident."
+        },
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Bablu Mondal called Vikram Singh on mobile no. 9830011122 on 20/01/2026."
+        },
+        {
+          "doc_id": "FIR_007_EXTORTION",
+          "sentence": "Pappu Das called Vikram Singh on 9830011122 on 27/01/2026 immediately after the incident."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "PHONE:+919830011122",
+      "type": "USES_PHONE",
+      "confidence": 0.95,
+      "occurrences": 1,
+      "evidence": [
+        {
+          "doc_id": "CDR-2026-Q1",
+          "sentence": "Subscriber register: +919830011122 registered to Vikram Singh."
+        }
+      ],
+      "attributes": {}
+    },
+    {
+      "source": "PERSON:vikram singh",
+      "target": "VEHICLE:WB02AB1234",
+      "type": "OWNS_VEHICLE",
+      "confidence": 0.761,
+      "occurrences": 2,
+      "evidence": [
+        {
+          "doc_id": "FIR_002_CREW",
+          "sentence": "Vehicle WB 02 AB 1234 registered in the name of Vikram Singh was seized from Salkia."
+        },
+        {
+          "doc_id": "FIR_008_VEHICLE",
+          "sentence": "FIR No. 221/2026 Police Station: Salkia, Kolkata Date of Registration: 05/02/2026 Vehicle WB 02 AB 1234 registered in the name of Vikram Singh was intercepted at Salkia on 04/02/2026."
+        }
+      ],
+      "attributes": {}
+    }
+  ]
+}

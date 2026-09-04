@@ -1,0 +1,904 @@
+{
+  "doc_id": "FIR_003_ALIAS_VARIANTS",
+  "source_type": "FIR",
+  "language": "en",
+  "text_length": 779,
+  "entities": [
+    {
+      "type": "LOCATION",
+      "value": "Howrah",
+      "normalized": "Howrah",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 33,
+          "end": 39
+        }
+      ],
+      "entity_id": "e1",
+      "cluster_id": "c1",
+      "aliases": [],
+      "canonical_value": "Howrah"
+    },
+    {
+      "type": "LOCATION",
+      "value": "Kolkata",
+      "normalized": "Kolkata",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 41,
+          "end": 48
+        }
+      ],
+      "entity_id": "e2",
+      "cluster_id": "c2",
+      "aliases": [],
+      "canonical_value": "Kolkata"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "19/02/2026",
+      "normalized": "2026-02-19",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 71,
+          "end": 81
+        }
+      ],
+      "entity_id": "e3",
+      "cluster_id": "c3",
+      "aliases": [],
+      "canonical_value": "19/02/2026"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 91,
+          "end": 103
+        }
+      ],
+      "entity_id": "e4",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "alias_marked": true,
+      "value": "Rakesh Yadev",
+      "normalized": "Rakesh Yadev",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 111,
+          "end": 123
+        }
+      ],
+      "entity_id": "e5",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadav",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "alias_marked": true,
+      "value": "R. Yadav",
+      "normalized": "R. Yadav",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 131,
+          "end": 139
+        }
+      ],
+      "entity_id": "e6",
+      "cluster_id": "c4",
+      "aliases": [
+        "Rakesh Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "alias_marked": true,
+      "value": "Raju",
+      "normalized": "Raju",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 147,
+          "end": 151
+        }
+      ],
+      "entity_id": "e7",
+      "cluster_id": "c5",
+      "aliases": [],
+      "canonical_value": "Raju"
+    },
+    {
+      "type": "LOCATION",
+      "value": "Salkia",
+      "normalized": "Salkia",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 171,
+          "end": 177
+        }
+      ],
+      "entity_id": "e8",
+      "cluster_id": "c6",
+      "aliases": [],
+      "canonical_value": "Salkia"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "18/02/2026",
+      "normalized": "2026-02-18",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 181,
+          "end": 191
+        }
+      ],
+      "entity_id": "e9",
+      "cluster_id": "c7",
+      "aliases": [],
+      "canonical_value": "18/02/2026"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadev",
+      "normalized": "Rakesh Yadev",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 216,
+          "end": 228
+        }
+      ],
+      "entity_id": "e10",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadav",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Imran Sheikh",
+      "normalized": "Imran Sheikh",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 253,
+          "end": 265
+        }
+      ],
+      "entity_id": "e11",
+      "cluster_id": "c8",
+      "aliases": [],
+      "canonical_value": "Imran Sheikh"
+    },
+    {
+      "type": "PHONE",
+      "alias_marked": false,
+      "value": "9830012345",
+      "normalized": "+919830012345",
+      "confidence": 0.97,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 282,
+          "end": 292
+        }
+      ],
+      "entity_id": "e12",
+      "cluster_id": "c9",
+      "aliases": [],
+      "canonical_value": "9830012345"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "12/02/2026",
+      "normalized": "2026-02-12",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 296,
+          "end": 306
+        }
+      ],
+      "entity_id": "e13",
+      "cluster_id": "c10",
+      "aliases": [],
+      "canonical_value": "12/02/2026"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 308,
+          "end": 320
+        }
+      ],
+      "entity_id": "e14",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PHONE",
+      "alias_marked": false,
+      "value": "9007654321",
+      "normalized": "+919007654321",
+      "confidence": 0.97,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 343,
+          "end": 353
+        }
+      ],
+      "entity_id": "e15",
+      "cluster_id": "c11",
+      "aliases": [],
+      "canonical_value": "9007654321"
+    },
+    {
+      "type": "PERSON",
+      "value": "Bablu Mondal",
+      "normalized": "Bablu Mondal",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 381,
+          "end": 393
+        }
+      ],
+      "entity_id": "e16",
+      "cluster_id": "c12",
+      "aliases": [],
+      "canonical_value": "Bablu Mondal"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 395,
+          "end": 407
+        }
+      ],
+      "entity_id": "e17",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "MONEY",
+      "alias_marked": false,
+      "value": "Rs. 1,20,000",
+      "normalized": "120000.00",
+      "confidence": 0.96,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 413,
+          "end": 425
+        }
+      ],
+      "entity_id": "e18",
+      "cluster_id": "c13",
+      "aliases": [],
+      "canonical_value": "Rs. 1,20,000"
+    },
+    {
+      "type": "PERSON",
+      "value": "Imran Sheikh",
+      "normalized": "Imran Sheikh",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 429,
+          "end": 441
+        }
+      ],
+      "entity_id": "e19",
+      "cluster_id": "c8",
+      "aliases": [],
+      "canonical_value": "Imran Sheikh"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "12/02/2026",
+      "normalized": "2026-02-12",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 445,
+          "end": 455
+        }
+      ],
+      "entity_id": "e20",
+      "cluster_id": "c10",
+      "aliases": [],
+      "canonical_value": "12/02/2026"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 458,
+          "end": 470
+        }
+      ],
+      "entity_id": "e21",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Ramesh Yadav",
+      "normalized": "Ramesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 489,
+          "end": 501
+        }
+      ],
+      "entity_id": "e22",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadav",
+        "Rakesh Yadev"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Ramesh Yadav",
+      "normalized": "Ramesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 503,
+          "end": 515
+        }
+      ],
+      "entity_id": "e23",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadav",
+        "Rakesh Yadev"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Vikram Singh",
+      "normalized": "Vikram Singh",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 523,
+          "end": 535
+        }
+      ],
+      "entity_id": "e24",
+      "cluster_id": "c14",
+      "aliases": [],
+      "canonical_value": "Vikram Singh"
+    },
+    {
+      "type": "PHONE",
+      "alias_marked": false,
+      "value": "9830011122",
+      "normalized": "+919830011122",
+      "confidence": 0.97,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 539,
+          "end": 549
+        }
+      ],
+      "entity_id": "e25",
+      "cluster_id": "c15",
+      "aliases": [],
+      "canonical_value": "9830011122"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "16/02/2026",
+      "normalized": "2026-02-16",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 553,
+          "end": 563
+        }
+      ],
+      "entity_id": "e26",
+      "cluster_id": "c16",
+      "aliases": [],
+      "canonical_value": "16/02/2026"
+    },
+    {
+      "type": "PERSON",
+      "value": "Ramesh Yadav",
+      "normalized": "Ramesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 565,
+          "end": 577
+        }
+      ],
+      "entity_id": "e27",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadav",
+        "Rakesh Yadev"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Salkia gang",
+      "normalized": "Salkia gang",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 597,
+          "end": 608
+        }
+      ],
+      "entity_id": "e28",
+      "cluster_id": "c17",
+      "aliases": [],
+      "canonical_value": "Salkia gang"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 610,
+          "end": 622
+        }
+      ],
+      "entity_id": "e29",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Salkia gang",
+      "normalized": "Salkia gang",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 642,
+          "end": 653
+        }
+      ],
+      "entity_id": "e30",
+      "cluster_id": "c17",
+      "aliases": [],
+      "canonical_value": "Salkia gang"
+    },
+    {
+      "type": "PERSON",
+      "value": "R. Yadav",
+      "normalized": "R. Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 656,
+          "end": 664
+        }
+      ],
+      "entity_id": "e31",
+      "cluster_id": "c4",
+      "aliases": [
+        "Rakesh Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Vikram Singh",
+      "normalized": "Vikram Singh",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 685,
+          "end": 697
+        }
+      ],
+      "entity_id": "e32",
+      "cluster_id": "c14",
+      "aliases": [],
+      "canonical_value": "Vikram Singh"
+    },
+    {
+      "type": "PERSON",
+      "value": "Rakesh Yadav",
+      "normalized": "Rakesh Yadav",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 718,
+          "end": 730
+        }
+      ],
+      "entity_id": "e33",
+      "cluster_id": "c4",
+      "aliases": [
+        "R. Yadav",
+        "Rakesh Yadev",
+        "Ramesh Yadav"
+      ],
+      "canonical_value": "Rakesh Yadav"
+    },
+    {
+      "type": "PERSON",
+      "value": "Vikram Singh",
+      "normalized": "Vikram Singh",
+      "confidence": 0.93,
+      "extractor": "ner",
+      "spans": [
+        {
+          "start": 738,
+          "end": 750
+        }
+      ],
+      "entity_id": "e34",
+      "cluster_id": "c14",
+      "aliases": [],
+      "canonical_value": "Vikram Singh"
+    },
+    {
+      "type": "PHONE",
+      "alias_marked": false,
+      "value": "9830011122",
+      "normalized": "+919830011122",
+      "confidence": 0.97,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 754,
+          "end": 764
+        }
+      ],
+      "entity_id": "e35",
+      "cluster_id": "c15",
+      "aliases": [],
+      "canonical_value": "9830011122"
+    },
+    {
+      "type": "DATE",
+      "alias_marked": false,
+      "value": "17/02/2026",
+      "normalized": "2026-02-17",
+      "confidence": 0.9,
+      "extractor": "regex",
+      "spans": [
+        {
+          "start": 768,
+          "end": 778
+        }
+      ],
+      "entity_id": "e36",
+      "cluster_id": "c18",
+      "aliases": [],
+      "canonical_value": "17/02/2026"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "e1",
+      "target": "e4",
+      "source_cluster": "c1",
+      "target_cluster": "c4",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.324,
+      "evidence": "FIR No. 311/2026 Police Station: Howrah, Kolkata Date of Registration: 19/02/2026 Accused Rakesh Yadav, alias Rakesh Yadev, alias R.",
+      "evidence_span": {
+        "start": 0,
+        "end": 133
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e2",
+      "target": "e4",
+      "source_cluster": "c2",
+      "target_cluster": "c4",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.332,
+      "evidence": "FIR No. 311/2026 Police Station: Howrah, Kolkata Date of Registration: 19/02/2026 Accused Rakesh Yadav, alias Rakesh Yadev, alias R.",
+      "evidence_span": {
+        "start": 0,
+        "end": 133
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e7",
+      "target": "e8",
+      "source_cluster": "c5",
+      "target_cluster": "c6",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.342,
+      "evidence": "Yadav, alias Raju, was arrested near Salkia on 18/02/2026.",
+      "evidence_span": {
+        "start": 134,
+        "end": 192
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e10",
+      "target": "e11",
+      "source_cluster": "c4",
+      "target_cluster": "c8",
+      "type": "CALLED",
+      "confidence": 0.75,
+      "evidence": "During interrogation, Rakesh Yadev admitted that he called Imran Sheikh from mobile no. 9830012345 on 12/02/2026.",
+      "evidence_span": {
+        "start": 194,
+        "end": 307
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e10",
+      "target": "e12",
+      "source_cluster": "c4",
+      "target_cluster": "c9",
+      "type": "CALLED",
+      "confidence": 0.692,
+      "evidence": "During interrogation, Rakesh Yadev admitted that he called Imran Sheikh from mobile no. 9830012345 on 12/02/2026.",
+      "evidence_span": {
+        "start": 194,
+        "end": 307
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e11",
+      "target": "e12",
+      "source_cluster": "c8",
+      "target_cluster": "c9",
+      "type": "CALLED",
+      "confidence": 0.766,
+      "evidence": "During interrogation, Rakesh Yadev admitted that he called Imran Sheikh from mobile no. 9830012345 on 12/02/2026.",
+      "evidence_span": {
+        "start": 194,
+        "end": 307
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e14",
+      "target": "e15",
+      "source_cluster": "c4",
+      "target_cluster": "c11",
+      "type": "USES_PHONE",
+      "confidence": 0.736,
+      "evidence": "Rakesh Yadav also used contact no. 9007654321, which was earlier used by Bablu Mondal.",
+      "evidence_span": {
+        "start": 308,
+        "end": 394
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e14",
+      "target": "e16",
+      "source_cluster": "c4",
+      "target_cluster": "c12",
+      "type": "MENTIONED_WITH",
+      "confidence": 0.315,
+      "evidence": "Rakesh Yadav also used contact no. 9007654321, which was earlier used by Bablu Mondal.",
+      "evidence_span": {
+        "start": 308,
+        "end": 394
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e16",
+      "target": "e15",
+      "source_cluster": "c12",
+      "target_cluster": "c11",
+      "type": "USES_PHONE",
+      "confidence": 0.727,
+      "evidence": "Rakesh Yadav also used contact no. 9007654321, which was earlier used by Bablu Mondal.",
+      "evidence_span": {
+        "start": 308,
+        "end": 394
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e17",
+      "target": "e19",
+      "source_cluster": "c4",
+      "target_cluster": "c8",
+      "type": "TRANSFERRED_TO",
+      "confidence": 0.747,
+      "evidence": "Rakesh Yadav paid Rs. 1,20,000 to Imran Sheikh on 12/02/2026.",
+      "evidence_span": {
+        "start": 395,
+        "end": 456
+      },
+      "attributes": {
+        "amount": "120000.00",
+        "date": "2026-02-12"
+      }
+    },
+    {
+      "source": "e23",
+      "target": "e24",
+      "source_cluster": "c4",
+      "target_cluster": "c14",
+      "type": "CALLED",
+      "confidence": 0.784,
+      "evidence": "Ramesh Yadav called Vikram Singh on 9830011122 on 16/02/2026.",
+      "evidence_span": {
+        "start": 503,
+        "end": 564
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e23",
+      "target": "e25",
+      "source_cluster": "c4",
+      "target_cluster": "c15",
+      "type": "CALLED",
+      "confidence": 0.752,
+      "evidence": "Ramesh Yadav called Vikram Singh on 9830011122 on 16/02/2026.",
+      "evidence_span": {
+        "start": 503,
+        "end": 564
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e24",
+      "target": "e25",
+      "source_cluster": "c14",
+      "target_cluster": "c15",
+      "type": "CALLED",
+      "confidence": 0.792,
+      "evidence": "Ramesh Yadav called Vikram Singh on 9830011122 on 16/02/2026.",
+      "evidence_span": {
+        "start": 503,
+        "end": 564
+      },
+      "attributes": {}
+    },
+    {
+      "source": "e27",
+      "target": "e28",
+      "source_cluster": "c4",
+      "target_cluster": "c17",
+      "type": "MEMBER_OF",
+      "confidence": 0.724,
+      "evidence": "Ramesh Yadav is a member of the Salkia gang.",
+      "evidence_span": {
+        "start": 565,
+        "end": 609
+      },
+      "attributes": {}
+    }
+  ],
+  "meta": {
+    "pipeline_version": "0.2.0",
+    "ocr_used": false,
+    "entity_count": 36,
+    "cluster_count": 18,
+    "relationship_count": 14,
+    "review_suggestions": [
+      {
+        "type": "PERSON",
+        "candidate_a": "Rakesh Yadav",
+        "candidate_b": "Raju",
+        "score": 25,
+        "reason": "document states 'alias' but the names do not match",
+        "action": "possible_same_entity_needs_human_review"
+      }
+    ]
+  }
+}
