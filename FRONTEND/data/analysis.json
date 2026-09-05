@@ -1,0 +1,262 @@
+{
+  "kingpin": {
+    "id": "PERSON:vikram singh",
+    "label": "Vikram Singh",
+    "type": "PERSON",
+    "pagerank": 0.1253,
+    "betweenness": 0.0769,
+    "degree": 6,
+    "community": 0
+  },
+  "middleman": {
+    "id": "PERSON:imran sheikh",
+    "label": "Imran Sheikh",
+    "type": "PERSON",
+    "pagerank": 0.0932,
+    "betweenness": 0.5275,
+    "degree": 4,
+    "community": 1
+  },
+  "ranking_by_pagerank": [
+    {
+      "id": "PERSON:vikram singh",
+      "label": "Vikram Singh",
+      "type": "PERSON",
+      "pagerank": 0.1253,
+      "betweenness": 0.0769,
+      "degree": 6,
+      "community": 0
+    },
+    {
+      "id": "PERSON:rakesh yadav",
+      "label": "Rakesh Yadav",
+      "type": "PERSON",
+      "pagerank": 0.1252,
+      "betweenness": 0.2784,
+      "degree": 6,
+      "community": 2
+    },
+    {
+      "id": "ORGANIZATION:salkia",
+      "label": "Salkia gang",
+      "type": "ORGANIZATION",
+      "pagerank": 0.122,
+      "betweenness": 0.2674,
+      "degree": 7,
+      "community": 0
+    },
+    {
+      "id": "PERSON:pappu das",
+      "label": "Pappu Das",
+      "type": "PERSON",
+      "pagerank": 0.1076,
+      "betweenness": 0.1245,
+      "degree": 6,
+      "community": 0
+    },
+    {
+      "id": "PERSON:amit agarwal",
+      "label": "Amit Agarwal",
+      "type": "PERSON",
+      "pagerank": 0.1012,
+      "betweenness": 0.4176,
+      "degree": 3,
+      "community": 1
+    },
+    {
+      "id": "PERSON:imran sheikh",
+      "label": "Imran Sheikh",
+      "type": "PERSON",
+      "pagerank": 0.0932,
+      "betweenness": 0.5275,
+      "degree": 4,
+      "community": 1
+    },
+    {
+      "id": "PERSON:bablu mondal",
+      "label": "Bablu Mondal",
+      "type": "PERSON",
+      "pagerank": 0.0747,
+      "betweenness": 0.0,
+      "degree": 4,
+      "community": 0
+    },
+    {
+      "id": "PERSON:kallu halder",
+      "label": "Kallu Halder",
+      "type": "PERSON",
+      "pagerank": 0.0593,
+      "betweenness": 0.0,
+      "degree": 3,
+      "community": 0
+    },
+    {
+      "id": "PERSON:sohail ansari",
+      "label": "Sohail Ansari",
+      "type": "PERSON",
+      "pagerank": 0.0446,
+      "betweenness": 0.0,
+      "degree": 2,
+      "community": 0
+    },
+    {
+      "id": "ORGANIZATION:hind logistics",
+      "label": "Hind Logistics",
+      "type": "ORGANIZATION",
+      "pagerank": 0.043,
+      "betweenness": 0.0,
+      "degree": 1,
+      "community": 1
+    }
+  ],
+  "ranking_by_betweenness": [
+    {
+      "id": "PERSON:imran sheikh",
+      "label": "Imran Sheikh",
+      "type": "PERSON",
+      "pagerank": 0.0932,
+      "betweenness": 0.5275,
+      "degree": 4,
+      "community": 1
+    },
+    {
+      "id": "PERSON:amit agarwal",
+      "label": "Amit Agarwal",
+      "type": "PERSON",
+      "pagerank": 0.1012,
+      "betweenness": 0.4176,
+      "degree": 3,
+      "community": 1
+    },
+    {
+      "id": "PERSON:rakesh yadav",
+      "label": "Rakesh Yadav",
+      "type": "PERSON",
+      "pagerank": 0.1252,
+      "betweenness": 0.2784,
+      "degree": 6,
+      "community": 2
+    },
+    {
+      "id": "ORGANIZATION:salkia",
+      "label": "Salkia gang",
+      "type": "ORGANIZATION",
+      "pagerank": 0.122,
+      "betweenness": 0.2674,
+      "degree": 7,
+      "community": 0
+    },
+    {
+      "id": "PERSON:pappu das",
+      "label": "Pappu Das",
+      "type": "PERSON",
+      "pagerank": 0.1076,
+      "betweenness": 0.1245,
+      "degree": 6,
+      "community": 0
+    },
+    {
+      "id": "PERSON:vikram singh",
+      "label": "Vikram Singh",
+      "type": "PERSON",
+      "pagerank": 0.1253,
+      "betweenness": 0.0769,
+      "degree": 6,
+      "community": 0
+    },
+    {
+      "id": "ORGANIZATION:hind logistics",
+      "label": "Hind Logistics",
+      "type": "ORGANIZATION",
+      "pagerank": 0.043,
+      "betweenness": 0.0,
+      "degree": 1,
+      "community": 1
+    },
+    {
+      "id": "ORGANIZATION:mehta",
+      "label": "Mehta Traders Pvt Ltd",
+      "type": "ORGANIZATION",
+      "pagerank": 0.0317,
+      "betweenness": 0.0,
+      "degree": 1,
+      "community": 2
+    },
+    {
+      "id": "ORGANIZATION:sunrise exports",
+      "label": "Sunrise Exports",
+      "type": "ORGANIZATION",
+      "pagerank": 0.0362,
+      "betweenness": 0.0,
+      "degree": 1,
+      "community": 1
+    },
+    {
+      "id": "PERSON:anirban ghosh",
+      "label": "Sri Anirban Ghosh",
+      "type": "PERSON",
+      "pagerank": 0.012,
+      "betweenness": 0.0,
+      "degree": 0,
+      "community": 3
+    }
+  ],
+  "node_count": 15,
+  "edge_count": 22,
+  "component_count": 4,
+  "largest_component_size": 12,
+  "community_count": 6,
+  "communities": [
+    {
+      "id": 0,
+      "size": 6,
+      "members": [
+        "Salkia gang",
+        "Bablu Mondal",
+        "Kallu Halder",
+        "Pappu Das",
+        "Sohail Ansari",
+        "Vikram Singh"
+      ]
+    },
+    {
+      "id": 1,
+      "size": 4,
+      "members": [
+        "Hind Logistics",
+        "Sunrise Exports",
+        "Amit Agarwal",
+        "Imran Sheikh"
+      ]
+    },
+    {
+      "id": 2,
+      "size": 2,
+      "members": [
+        "Mehta Traders Pvt Ltd",
+        "Rakesh Yadav"
+      ]
+    },
+    {
+      "id": 3,
+      "size": 1,
+      "members": [
+        "Sri Anirban Ghosh"
+      ]
+    },
+    {
+      "id": 4,
+      "size": 1,
+      "members": [
+        "Raju"
+      ]
+    },
+    {
+      "id": 5,
+      "size": 1,
+      "members": [
+        "Subhankar Bose"
+      ]
+    }
+  ]
+}
