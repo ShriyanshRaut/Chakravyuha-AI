@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Interactive criminal-network graph — Chakravyuha AI." />
+    <title>Criminal Network Graph | Chakravyuha AI</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="dashboard.css" />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+    <script src="graph.js" defer></script>
+  </head>
+  <body>
+    <div class="synthetic-banner">Synthetic Demonstration Data Only</div>
+
+    <div class="site-shell">
+      <header class="site-header">
+        <h2 class="header-brand">
+          <img src="gov_emblem.png" alt="GOV_OF_INDIA Logo" height="80" />
+          <img src="sih-logo.png" alt="SIH Logo" height="85" />
+          <img src="manipal_logo.png" alt="Manipal Logo" height="80" />
+          <a href="index.html">Chakravyuha</a>
+        </h2>
+        <nav class="primary-nav" aria-label="Primary navigation">
+          <a href="index.html#vision">Command Center</a>
+          <a href="graph.html">Network Graph</a>
+          <a href="index.html#process">Evidence Ingestion</a>
+          <a href="index.html#process">Intelligence Alerts</a>
+          <a href="index.html#process">Evidence Ledger</a>
+          <a href="index.html#footer">Administration</a>
+        </nav>
+      </header>
+
+      <main class="workspace">
+        <div class="workspace-head">
+          <h1>Criminal Network<span>_Graph</span></h1>
+          <p>
+            Entities and relationships extracted from 15 sources — first information reports,
+            surveillance logs, call detail records and financial transactions — resolved across
+            documents into a single network. Click any entity for its connections, or any line
+            for the sentence in the source document that produced it.
+          </p>
+        </div>
+
+        <div class="stat-strip" id="stat-strip"></div>
+
+        <div class="graph-layout">
+          <!-- left: filters -->
+          <aside>
+            <section class="side-card">
+              <h3>Entity types</h3>
+              <p class="hint">
+                Start with people and organisations. Add identifiers as you need them —
+                showing everything at once makes the network unreadable.
+              </p>
+              <div id="type-filters"></div>
+              <div class="btn-row">
+                <button class="btn btn-ghost" id="btn-show-core" type="button">Core only</button>
+                <button class="btn btn-ghost" id="btn-show-all" type="button">Show all</button>
+              </div>
+            </section>
+
+            <section class="side-card">
+              <h3>Relationships</h3>
+              <div id="rel-filters"></div>
+              <div class="filter-group slider-row">
+                <h4>Confidence threshold</h4>
+                <input type="range" id="conf-slider" min="0" max="100" value="40" />
+                <span class="slider-value" id="conf-value">Hiding relationships below 0.40 confidence</span>
+              </div>
+            </section>
+          </aside>
+
+          <!-- centre: canvas -->
+          <section class="graph-stage" id="graph-stage">
+            <div class="graph-toolbar">
+              <input type="search" id="node-search" placeholder="Search for a name…" aria-label="Search entities" />
+              <button class="btn" id="btn-reset" type="button">Reset view</button>
+            </div>
+            <svg id="graph-canvas" role="img" aria-label="Criminal network graph"></svg>
+            <div class="graph-status" id="graph-status">Loading…</div>
+            <div class="stage-message" id="stage-message">Loading network data…</div>
+          </section>
+
+          <!-- right: inspector -->
+          <aside>
+            <section class="side-card inspector">
+              <h3>Inspector</h3>
+              <div id="inspector-body">
+                <p class="placeholder">
+                  Click any entity to see who it is connected to, or click a relationship
+                  line to read the sentence in the source document that produced it.
+                </p>
+              </div>
+            </section>
+
+            <section class="side-card">
+              <h3>Key individuals</h3>
+              <ul class="legend-list" id="legend-markers"></ul>
+              <p class="hint" style="margin-top:12px">
+                PageRank identifies who others route contact toward. Betweenness identifies
+                who sits between otherwise separate groups. Dashed grey lines are weak
+                co-occurrence, not a stated relationship.
+              </p>
+            </section>
+          </aside>
+        </div>
+      </main>
+
+      <footer id="footer">
+        <div class="footer-inner">
+          <div class="footer-brand">
+            <div><h2>Chakravyuha_AI</h2><p>A Secure intelligence environment.</p></div>
+          </div>
+          <div class="footer-details">
+            <p>© 2026 | Developed by Team Chakravyuha, Manipal Institute of Technology, Bengaluru | All Rights Reserved</p>
+            <br>
+            <p>Team Members : Shriyansh Raut, Diptanshu Datta, Diyasha Das, Soham Bhattacharjee, Chandrajit Ghosh and Ayush Shukla | MIT Bengaluru</p>
+            <p>Contact: Team Lead - Shriyansh Raut - <a href="mailto:shriyansh.mitblr2024@learner.manipal.edu">shriyansh.mitblr2024@learner.manipal.edu</a></p>
+          </div>
+        </div>
+        <p class="disclaimer">A Prototype created for Smart India Hackathon 2026 Evaluation Purposes Only — Synthetic Demonstration Data Only</p>
+      </footer>
+    </div>
+  </body>
+</html>
